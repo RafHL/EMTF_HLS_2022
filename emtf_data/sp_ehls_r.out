@@ -1,0 +1,8674 @@
+endcap: 0 sector: 0 strings:     _endcap_1_sec_1_     _endcap_1_sect_1
+Found golden reference file
+rpc hit: st: 0 ch: 4 phi: 574 th: 21
+rpc hit: st: 2 ch: 4 phi: 574 th: 19
+rpc hit: st: 3 ch: 4 phi: 569 th: 21
+rpc hit: st: 4 ch: 4 phi: 574 th: 21
+rpc hit: st: 0 ch: 6 phi: 862 th: 14
+rpc hit: st: 2 ch: 6 phi: 902 th: 14
+rpc hit: st: 3 ch: 6 phi: 893 th: 13
+rpc hit: st: 4 ch: 6 phi: 874 th: 11
+rpc hit: st: 4 ch: 8 phi: 1186 th: 9
+rpc hit: st: 2 ch: 7 phi: 956 th: 14
+rpc hit: st: 5 ch: 8 phi: 286 th: 9
+rpc hit: st: 4 ch: 3 phi: 398 th: 11
+rpc hit: st: 0 ch: 6 phi: 799 th: 14
+rpc hit: st: 2 ch: 5 phi: 775 th: 14
+rpc hit: st: 4 ch: 7 phi: 1012 th: 11
+rpc hit: st: 0 ch: 6 phi: 792 th: 14
+rpc hit: st: 2 ch: 6 phi: 822 th: 17
+rpc hit: st: 3 ch: 6 phi: 824 th: 15
+rpc hit: st: 4 ch: 3 phi: 414 th: 11
+rpc hit: st: 0 ch: 6 phi: 843 th: 14
+rpc hit: st: 1 ch: 4 phi: 1021 th: 13
+rpc hit: st: 2 ch: 5 phi: 717 th: 14
+rpc hit: st: 1 ch: 4 phi: 1014 th: 17
+rpc hit: st: 2 ch: 7 phi: 1028 th: 16
+rpc hit: st: 0 ch: 6 phi: 855 th: 18
+rpc hit: st: 2 ch: 6 phi: 862 th: 17
+rpc hit: st: 3 ch: 6 phi: 867 th: 18
+rpc hit: st: 4 ch: 6 phi: 864 th: 19
+rpc hit: st: 3 ch: 7 phi: 996 th: 23
+rpc hit: st: 4 ch: 3 phi: 349 th: 9
+rpc hit: st: 4 ch: 6 phi: 904 th: 11
+rpc hit: st: 0 ch: 5 phi: 642 th: 13
+rpc hit: st: 2 ch: 5 phi: 642 th: 14
+rpc hit: st: 3 ch: 5 phi: 639 th: 15
+rpc hit: st: 4 ch: 7 phi: 1017 th: 9
+rpc hit: st: 0 ch: 5 phi: 771 th: 20
+rpc hit: st: 2 ch: 5 phi: 778 th: 19
+rpc hit: st: 3 ch: 6 phi: 782 th: 21
+rpc hit: st: 4 ch: 6 phi: 785 th: 19
+rpc hit: st: 3 ch: 4 phi: 520 th: 10
+rpc hit: st: 3 ch: 4 phi: 583 th: 10
+rpc hit: st: 4 ch: 4 phi: 609 th: 11
+rpc hit: st: 3 ch: 8 phi: 1195 th: 13
+rpc hit: st: 4 ch: 8 phi: 1150 th: 13
+rpc hit: st: 0 ch: 3 phi: 370 th: 13
+rpc hit: st: 2 ch: 3 phi: 386 th: 14
+rpc hit: st: 5 ch: 6 phi: 295 th: 13
+rpc hit: st: 5 ch: 8 phi: 250 th: 13
+rpc hit: st: 0 ch: 4 phi: 482 th: 18
+rpc hit: st: 2 ch: 4 phi: 494 th: 17
+rpc hit: st: 3 ch: 4 phi: 492 th: 18
+rpc hit: st: 4 ch: 4 phi: 489 th: 19
+rpc hit: st: 0 ch: 4 phi: 508 th: 14
+rpc hit: st: 3 ch: 4 phi: 513 th: 13
+rpc hit: st: 5 ch: 4 phi: 196 th: 14
+bad segment index. event: 869, index: 2, station: 1, cscid: 1
+bad segment index. event: 869, index: 2, station: 1, cscid: 1
+rpc hit: st: 0 ch: 4 phi: 595 th: 14
+rpc hit: st: 2 ch: 8 phi: 1096 th: 14
+rpc hit: st: 4 ch: 8 phi: 1110 th: 9
+rpc hit: st: 5 ch: 8 phi: 210 th: 9
+rpc hit: st: 3 ch: 5 phi: 712 th: 13
+rpc hit: st: 4 ch: 5 phi: 714 th: 11
+rpc hit: st: 3 ch: 6 phi: 925 th: 10
+rpc hit: st: 4 ch: 7 phi: 1012 th: 11
+rpc hit: st: 0 ch: 3 phi: 478 th: 13
+rpc hit: st: 2 ch: 4 phi: 482 th: 14
+rpc hit: st: 3 ch: 4 phi: 482 th: 13
+rpc hit: st: 4 ch: 3 phi: 475 th: 13
+rpc hit: st: 5 ch: 1 phi: 234 th: 18
+rpc hit: st: 5 ch: 4 phi: 239 th: 17
+rpc hit: st: 5 ch: 6 phi: 239 th: 18
+rpc hit: st: 1 ch: 5 phi: 1134 th: 18
+rpc hit: st: 2 ch: 8 phi: 1139 th: 17
+rpc hit: st: 3 ch: 8 phi: 1139 th: 18
+rpc hit: st: 3 ch: 6 phi: 909 th: 13
+rpc hit: st: 4 ch: 6 phi: 907 th: 11
+rpc hit: st: 1 ch: 4 phi: 989 th: 17
+rpc hit: st: 2 ch: 7 phi: 979 th: 16
+rpc hit: st: 3 ch: 7 phi: 979 th: 18
+rpc hit: st: 4 ch: 7 phi: 979 th: 16
+rpc hit: st: 0 ch: 4 phi: 623 th: 14
+rpc hit: st: 0 ch: 5 phi: 637 th: 13
+rpc hit: st: 2 ch: 5 phi: 649 th: 14
+rpc hit: st: 3 ch: 5 phi: 649 th: 13
+rpc hit: st: 4 ch: 5 phi: 649 th: 13
+bad segment index. event: 1415, index: 2, station: 0, cscid: 1
+bad segment index. event: 1415, index: 2, station: 0, cscid: 1
+rpc hit: st: 3 ch: 3 phi: 447 th: 13
+rpc hit: st: 2 ch: 6 phi: 813 th: 19
+rpc hit: st: 4 ch: 8 phi: 1120 th: 11
+rpc hit: st: 5 ch: 8 phi: 220 th: 11
+rpc hit: st: 2 ch: 6 phi: 829 th: 19
+rpc hit: st: 3 ch: 6 phi: 867 th: 18
+rpc hit: st: 4 ch: 6 phi: 881 th: 21
+rpc hit: st: 4 ch: 5 phi: 700 th: 11
+rpc hit: st: 3 ch: 8 phi: 1122 th: 10
+rpc hit: st: 4 ch: 8 phi: 1218 th: 11
+rpc hit: st: 3 ch: 5 phi: 757 th: 13
+rpc hit: st: 5 ch: 6 phi: 222 th: 10
+rpc hit: st: 5 ch: 8 phi: 318 th: 11
+bad segment index. event: 1753, index: 2, station: 0, cscid: 2
+bad segment index. event: 1753, index: 2, station: 0, cscid: 2
+bad segment index. event: 1779, index: 2, station: 0, cscid: 1
+bad segment index. event: 1779, index: 2, station: 0, cscid: 1
+rpc hit: st: 1 ch: 4 phi: 960 th: 13
+rpc hit: st: 4 ch: 8 phi: 1155 th: 11
+rpc hit: st: 5 ch: 8 phi: 255 th: 11
+rpc hit: st: 3 ch: 4 phi: 569 th: 13
+rpc hit: st: 0 ch: 4 phi: 614 th: 14
+rpc hit: st: 2 ch: 5 phi: 639 th: 14
+rpc hit: st: 3 ch: 5 phi: 635 th: 13
+rpc hit: st: 4 ch: 5 phi: 635 th: 13
+bad segment index. event: 2039, index: 2, station: 4, cscid: 4
+bad segment index. event: 2039, index: 2, station: 4, cscid: 4
+rpc hit: st: 0 ch: 4 phi: 602 th: 18
+rpc hit: st: 2 ch: 4 phi: 597 th: 17
+rpc hit: st: 3 ch: 4 phi: 593 th: 18
+rpc hit: st: 4 ch: 4 phi: 583 th: 16
+rpc hit: st: 0 ch: 4 phi: 546 th: 14
+rpc hit: st: 3 ch: 4 phi: 492 th: 10
+rpc hit: st: 4 ch: 3 phi: 403 th: 11
+rpc hit: st: 2 ch: 7 phi: 1028 th: 16
+rpc hit: st: 3 ch: 8 phi: 1150 th: 23
+rpc hit: st: 0 ch: 4 phi: 489 th: 18
+rpc hit: st: 2 ch: 3 phi: 473 th: 16
+rpc hit: st: 3 ch: 4 phi: 485 th: 15
+rpc hit: st: 4 ch: 4 phi: 501 th: 16
+rpc hit: st: 1 ch: 5 phi: 1148 th: 14
+rpc hit: st: 2 ch: 8 phi: 1162 th: 14
+rpc hit: st: 4 ch: 8 phi: 1164 th: 16
+rpc hit: st: 5 ch: 1 phi: 248 th: 14
+rpc hit: st: 5 ch: 4 phi: 262 th: 14
+rpc hit: st: 5 ch: 8 phi: 264 th: 16
+rpc hit: st: 0 ch: 6 phi: 876 th: 14
+rpc hit: st: 2 ch: 6 phi: 893 th: 17
+rpc hit: st: 3 ch: 6 phi: 881 th: 15
+rpc hit: st: 4 ch: 6 phi: 876 th: 16
+rpc hit: st: 2 ch: 4 phi: 625 th: 17
+rpc hit: st: 3 ch: 4 phi: 621 th: 18
+rpc hit: st: 4 ch: 4 phi: 625 th: 19
+rpc hit: st: 1 ch: 4 phi: 965 th: 13
+rpc hit: st: 2 ch: 7 phi: 963 th: 14
+bad segment index. event: 2377, index: 2, station: 5, cscid: 3
+bad segment index. event: 2377, index: 2, station: 5, cscid: 3
+bad segment index. event: 2403, index: 2, station: 2, cscid: 2
+bad segment index. event: 2403, index: 2, station: 2, cscid: 2
+rpc hit: st: 2 ch: 6 phi: 893 th: 14
+rpc hit: st: 4 ch: 6 phi: 900 th: 13
+rpc hit: st: 3 ch: 7 phi: 1054 th: 18
+rpc hit: st: 2 ch: 3 phi: 447 th: 14
+rpc hit: st: 3 ch: 3 phi: 443 th: 13
+rpc hit: st: 4 ch: 3 phi: 447 th: 13
+rpc hit: st: 2 ch: 4 phi: 548 th: 14
+rpc hit: st: 3 ch: 4 phi: 496 th: 15
+rpc hit: st: 4 ch: 3 phi: 405 th: 18
+rpc hit: st: 1 ch: 4 phi: 986 th: 13
+rpc hit: st: 3 ch: 7 phi: 993 th: 10
+rpc hit: st: 4 ch: 7 phi: 967 th: 11
+rpc hit: st: 0 ch: 6 phi: 871 th: 21
+rpc hit: st: 2 ch: 6 phi: 862 th: 19
+rpc hit: st: 3 ch: 6 phi: 855 th: 21
+rpc hit: st: 4 ch: 6 phi: 862 th: 21
+rpc hit: st: 2 ch: 5 phi: 700 th: 19
+rpc hit: st: 3 ch: 5 phi: 693 th: 18
+rpc hit: st: 4 ch: 5 phi: 700 th: 18
+rpc hit: st: 0 ch: 4 phi: 517 th: 14
+rpc hit: st: 4 ch: 4 phi: 513 th: 13
+rpc hit: st: 0 ch: 3 phi: 381 th: 20
+rpc hit: st: 2 ch: 3 phi: 386 th: 19
+rpc hit: st: 3 ch: 3 phi: 386 th: 20
+rpc hit: st: 4 ch: 3 phi: 389 th: 18
+rpc hit: st: 0 ch: 4 phi: 492 th: 18
+rpc hit: st: 2 ch: 4 phi: 485 th: 19
+rpc hit: st: 3 ch: 3 phi: 475 th: 18
+rpc hit: st: 4 ch: 3 phi: 478 th: 18
+rpc hit: st: 4 ch: 8 phi: 1181 th: 9
+rpc hit: st: 5 ch: 8 phi: 281 th: 9
+rpc hit: st: 4 ch: 7 phi: 944 th: 13
+rpc hit: st: 0 ch: 5 phi: 707 th: 13
+rpc hit: st: 2 ch: 5 phi: 693 th: 16
+rpc hit: st: 3 ch: 5 phi: 710 th: 15
+rpc hit: st: 0 ch: 4 phi: 492 th: 18
+rpc hit: st: 2 ch: 4 phi: 513 th: 19
+rpc hit: st: 3 ch: 4 phi: 524 th: 18
+rpc hit: st: 4 ch: 4 phi: 522 th: 19
+rpc hit: st: 0 ch: 5 phi: 719 th: 13
+rpc hit: st: 3 ch: 5 phi: 733 th: 13
+rpc hit: st: 4 ch: 5 phi: 740 th: 11
+rpc hit: st: 3 ch: 6 phi: 803 th: 10
+rpc hit: st: 4 ch: 5 phi: 778 th: 11
+rpc hit: st: 1 ch: 5 phi: 1120 th: 14
+rpc hit: st: 3 ch: 8 phi: 1110 th: 13
+rpc hit: st: 4 ch: 8 phi: 1129 th: 11
+rpc hit: st: 5 ch: 1 phi: 220 th: 14
+rpc hit: st: 5 ch: 6 phi: 210 th: 13
+rpc hit: st: 5 ch: 8 phi: 229 th: 11
+rpc hit: st: 2 ch: 7 phi: 972 th: 19
+rpc hit: st: 3 ch: 7 phi: 932 th: 23
+rpc hit: st: 4 ch: 7 phi: 972 th: 21
+st: 0  cid: 0   1324     5  1332     5     5     4 
+st: 0  cid: 1   1926     6  1932     6     7     6 
+st: 0  cid: 2   2527     6  2532     6     5     4 
+st: 1  cid: 0   3128     5  3131     5     7     6 
+st: 1  cid: 1   3725     5  3732     5     5     4 
+st: 1  cid: 2   4325     6  4331     6     7     6 
+st: 0  cid: 3   1332    46     5     4 
+st: 0  cid: 4   1932    49     5     7 
+st: 0  cid: 5   2532    46     6     4 
+st: 0  cid: 6   1415    98     6     4 
+st: 0  cid: 7   2015    98     6     4 
+st: 0  cid: 8   2615    98     5     4 
+st: 1  cid: 3   3132    49     6     7 
+st: 1  cid: 4   3732    46     5     4 
+st: 1  cid: 5   4332    49     5     7 
+st: 1  cid: 6   3214    98     5     4 
+st: 1  cid: 7   3815    98     6     4 
+st: 1  cid: 8   4415    98     6     4 
+st: 2  cid: 0   1316     6     6     5 
+st: 2  cid: 1   2516     5     5     4 
+st: 2  cid: 2   3716     6     6     5 
+st: 2  cid: 3   1332    53     5     5 
+st: 2  cid: 4   1932    55     5     7 
+st: 2  cid: 5   2532    53     6     5 
+st: 2  cid: 6   3132    55     6     7 
+st: 2  cid: 7   3732    53     5     5 
+st: 2  cid: 8   4332    55     7     7 
+st: 3  cid: 0   2580     5     5     4 
+st: 3  cid: 1   3781     6     4     5 
+st: 3  cid: 2   4980     5     5     4 
+st: 3  cid: 3   1964    46     5     6 
+st: 3  cid: 4   2564    44     4     4 
+st: 3  cid: 5   3164    46     6     6 
+st: 3  cid: 6   3764    44     5     4 
+st: 3  cid: 7   4364    46     5     6 
+st: 3  cid: 8   4964    44     6     4 
+st: 4  cid: 0   2580     6     5     4 
+st: 4  cid: 1   3780     7     4     5 
+st: 4  cid: 2   4980     6     5     4 
+st: 4  cid: 3   1964    40     6     6 
+st: 4  cid: 4   2564    38     6     4 
+st: 4  cid: 5   3164    40     5     6 
+st: 4  cid: 6   3764    38     5     4 
+st: 4  cid: 7   4364    40     6     6 
+st: 4  cid: 8   4964    38     6     4 
+st: 4  cid: 0   2580     6     5     4 
+neighbor sector:
+st: 5  cid: 0    726     3   732     3     7     6 
+st: 5  cid: 1    732    49     4     7 
+st: 5  cid: 2    815    98     5     4 
+st: 5  cid: 3    116     5     5     4 
+st: 5  cid: 4    732    55     4     7 
+st: 5  cid: 5   1380     6     4     5 
+st: 5  cid: 6   1364    44     3     4 
+st: 5  cid: 7   1380     7     4     5 
+st: 5  cid: 8   1364    38     5     4 
+
+event:       1
+
+event:       2
+
+event:       3
+
+event:       4
+
+event:       5
+
+event:       6
+
+event:       7
+
+event:       8
+
+event:       9
+
+event:      10
+
+event:      11
+
+event:      12
+
+event:      13
+
+event:      14
+    st:0    ch:2    ph:2952    th:15    phzvl:4
+    st:2    ch:1    ph:2932    th:13    phzvl:4
+    st:3    ch:1    ph:2933    th:15    phzvl:4
+    st:4    ch:1    ph:2932    th:15    phzvl:4
+
+event:      15
+
+event:      16
+
+event:      17
+
+event:      18
+
+event:      19
+
+event:      20
+
+event:      21
+
+event:      22
+
+event:      23
+
+event:      24
+
+event:      25
+
+event:      26
+
+event:      27
+
+event:      28
+
+event:      29
+
+event:      30
+
+event:      31
+
+event:      32
+
+event:      33
+
+event:      34
+
+event:      35
+
+event:      36
+
+event:      37
+
+event:      38
+
+event:      39
+    st:3    ch:4    ph:2324    th:82    phzvl:1
+
+event:      40
+    st:0    ch:4    ph:2320    th:82    phzvl:1
+    st:2    ch:4    ph:2323    th:82    phzvl:1
+    st:4    ch:4    ph:2323    th:81    phzvl:1
+
+event:      41
+
+event:      42
+
+event:      43
+
+event:      44
+
+event:      45
+
+event:      46
+
+event:      47
+
+event:      48
+
+event:      49
+
+event:      50
+
+event:      51
+
+event:      52
+
+event:      53
+
+event:      54
+
+event:      55
+
+event:      56
+
+event:      57
+
+event:      58
+
+event:      59
+
+event:      60
+
+event:      61
+
+event:      62
+
+event:      63
+
+event:      64
+
+event:      65
+
+event:      66
+    st:3    ch:6    ph:3613    th:47    phzvl:2
+    st:4    ch:6    ph:3549    th:46    phzvl:2
+
+event:      67
+
+event:      68
+
+event:      69
+
+event:      70
+
+event:      71
+
+event:      72
+
+event:      73
+
+event:      74
+
+event:      75
+
+event:      76
+
+event:      77
+
+event:      78
+
+event:      79
+
+event:      80
+
+event:      81
+
+event:      82
+
+event:      83
+
+event:      84
+
+event:      85
+
+event:      86
+
+event:      87
+
+event:      88
+
+event:      89
+
+event:      90
+
+event:      91
+
+event:      92
+    st:2    ch:0    ph:2164    th:11    phzvl:4
+    st:3    ch:0    ph:2100    th:10    phzvl:4
+    st:4    ch:0    ph:2084    th:10    phzvl:4
+
+event:      93
+
+event:      94
+
+event:      95
+
+event:      96
+
+event:      97
+
+event:      98
+
+event:      99
+
+event:     100
+
+event:     101
+
+event:     102
+
+event:     103
+
+event:     104
+
+event:     105
+
+event:     106
+
+event:     107
+
+event:     108
+
+event:     109
+
+event:     110
+
+event:     111
+
+event:     112
+
+event:     113
+
+event:     114
+
+event:     115
+
+event:     116
+
+event:     117
+
+event:     118
+    st:0    ch:0    ph:1729    th:27    phzvl:6
+    st:0    ch:0    ph:1729    th:27    phzvl:6
+    st:2    ch:0    ph:1620    th:25    phzvl:6
+    st:3    ch:0    ph:1620    th:24    phzvl:6
+    st:4    ch:0    ph:1652    th:24    phzvl:6
+
+event:     119
+
+event:     120
+
+event:     121
+
+event:     122
+
+event:     123
+
+event:     124
+
+event:     125
+
+event:     126
+
+event:     127
+
+event:     128
+
+event:     129
+
+event:     130
+
+event:     131
+
+event:     132
+
+event:     133
+
+event:     134
+
+event:     135
+
+event:     136
+
+event:     137
+
+event:     138
+
+event:     139
+
+event:     140
+
+event:     141
+
+event:     142
+
+event:     143
+
+event:     144
+    st:1    ch:2    ph:4621    th:33    phzvl:2
+    st:1    ch:2    ph:4621    th:33    phzvl:2
+    st:2    ch:2    ph:4764    th:34    phzvl:2
+    st:3    ch:2    ph:4772    th:30    phzvl:2
+    st:4    ch:2    ph:4764    th:31    phzvl:2
+
+event:     145
+
+event:     146
+
+event:     147
+
+event:     148
+
+event:     149
+
+event:     150
+
+event:     151
+
+event:     152
+
+event:     153
+
+event:     154
+
+event:     155
+
+event:     156
+
+event:     157
+
+event:     158
+
+event:     159
+
+event:     160
+
+event:     161
+
+event:     162
+
+event:     163
+
+event:     164
+
+event:     165
+
+event:     166
+
+event:     167
+
+event:     168
+
+event:     169
+
+event:     170
+    st:5    ch:0    ph:1022    th:33    phzvl:2
+    st:5    ch:0    ph:1022    th:33    phzvl:2
+    st:5    ch:3    ph:1164    th:32    phzvl:2
+    st:5    ch:5    ph:1172    th:32    phzvl:2
+    st:5    ch:7    ph:1164    th:32    phzvl:2
+
+event:     171
+
+event:     172
+
+event:     173
+
+event:     174
+
+event:     175
+
+event:     176
+
+event:     177
+
+event:     178
+
+event:     179
+
+event:     180
+
+event:     181
+
+event:     182
+
+event:     183
+
+event:     184
+
+event:     185
+
+event:     186
+
+event:     187
+
+event:     188
+
+event:     189
+
+event:     190
+
+event:     191
+
+event:     192
+
+event:     193
+
+event:     194
+
+event:     195
+
+event:     196
+    st:0    ch:0    ph:1729    th:43    phzvl:2
+    st:0    ch:0    ph:1729    th:43    phzvl:2
+    st:2    ch:0    ph:1564    th:41    phzvl:2
+    st:4    ch:3    ph:1576    th:41    phzvl:2
+
+event:     197
+
+event:     198
+
+event:     199
+
+event:     200
+
+event:     201
+
+event:     202
+
+event:     203
+
+event:     204
+
+event:     205
+
+event:     206
+
+event:     207
+
+event:     208
+
+event:     209
+
+event:     210
+
+event:     211
+
+event:     212
+
+event:     213
+
+event:     214
+
+event:     215
+
+event:     216
+
+event:     217
+
+event:     218
+
+event:     219
+
+event:     220
+
+event:     221
+
+event:     222
+    st:1    ch:3    ph:3223    th:59    phzvl:1
+
+event:     223
+
+event:     224
+
+event:     225
+
+event:     226
+
+event:     227
+
+event:     228
+
+event:     229
+
+event:     230
+
+event:     231
+
+event:     232
+
+event:     233
+
+event:     234
+
+event:     235
+
+event:     236
+
+event:     237
+
+event:     238
+
+event:     239
+
+event:     240
+
+event:     241
+
+event:     242
+
+event:     243
+
+event:     244
+
+event:     245
+
+event:     246
+
+event:     247
+
+event:     248
+    st:1    ch:3    ph:3214    th:63    phzvl:1
+    st:3    ch:6    ph:3340    th:59    phzvl:1
+    st:4    ch:6    ph:3324    th:58    phzvl:1
+
+event:     249
+
+event:     250
+
+event:     251
+
+event:     252
+
+event:     253
+
+event:     254
+
+event:     255
+
+event:     256
+
+event:     257
+
+event:     258
+
+event:     259
+
+event:     260
+
+event:     261
+
+event:     262
+
+event:     263
+
+event:     264
+
+event:     265
+
+event:     266
+
+event:     267
+
+event:     268
+
+event:     269
+
+event:     270
+
+event:     271
+
+event:     272
+
+event:     273
+
+event:     274
+    st:0    ch:0    ph:1669    th:39    phzvl:2
+    st:2    ch:0    ph:1684    th:39    phzvl:2
+
+event:     275
+
+event:     276
+
+event:     277
+
+event:     278
+
+event:     279
+
+event:     280
+
+event:     281
+
+event:     282
+
+event:     283
+
+event:     284
+
+event:     285
+
+event:     286
+
+event:     287
+
+event:     288
+
+event:     289
+
+event:     290
+
+event:     291
+
+event:     292
+
+event:     293
+
+event:     294
+
+event:     295
+
+event:     296
+
+event:     297
+
+event:     298
+
+event:     299
+
+event:     300
+    st:2    ch:2    ph:4150    th:39    phzvl:2
+
+event:     301
+
+event:     302
+
+event:     303
+
+event:     304
+
+event:     305
+
+event:     306
+
+event:     307
+
+event:     308
+
+event:     309
+
+event:     310
+
+event:     311
+
+event:     312
+
+event:     313
+
+event:     314
+
+event:     315
+
+event:     316
+
+event:     317
+
+event:     318
+
+event:     319
+
+event:     320
+
+event:     321
+
+event:     322
+
+event:     323
+
+event:     324
+
+event:     325
+
+event:     326
+    st:5    ch:3    ph:550    th:37    phzvl:2
+
+event:     327
+
+event:     328
+
+event:     329
+
+event:     330
+
+event:     331
+
+event:     332
+
+event:     333
+
+event:     334
+
+event:     335
+
+event:     336
+
+event:     337
+
+event:     338
+
+event:     339
+
+event:     340
+
+event:     341
+
+event:     342
+
+event:     343
+
+event:     344
+
+event:     345
+
+event:     346
+
+event:     347
+
+event:     348
+
+event:     349
+
+event:     350
+
+event:     351
+
+event:     352
+    st:1    ch:4    ph:4081    th:71    phzvl:1
+    st:2    ch:7    ph:4131    th:71    phzvl:1
+    st:3    ch:7    ph:4093    th:71    phzvl:1
+    st:4    ch:7    ph:4033    th:72    phzvl:1
+
+event:     353
+
+event:     354
+
+event:     355
+
+event:     356
+
+event:     357
+
+event:     358
+
+event:     359
+
+event:     360
+
+event:     361
+
+event:     362
+
+event:     363
+
+event:     364
+
+event:     365
+
+event:     366
+
+event:     367
+
+event:     368
+
+event:     369
+
+event:     370
+
+event:     371
+
+event:     372
+
+event:     373
+
+event:     374
+
+event:     375
+
+event:     376
+
+event:     377
+    st:2    ch:0    ph:2078    th:30    phzvl:2
+
+event:     378
+    st:0    ch:0    ph:1782    th:30    phzvl:2
+    st:3    ch:0    ph:2094    th:26    phzvl:2
+    st:4    ch:0    ph:2062    th:25    phzvl:6
+
+event:     379
+
+event:     380
+
+event:     381
+
+event:     382
+
+event:     383
+
+event:     384
+
+event:     385
+
+event:     386
+
+event:     387
+
+event:     388
+
+event:     389
+
+event:     390
+
+event:     391
+
+event:     392
+
+event:     393
+
+event:     394
+
+event:     395
+
+event:     396
+
+event:     397
+
+event:     398
+
+event:     399
+
+event:     400
+
+event:     401
+
+event:     402
+
+event:     403
+    st:3    ch:6    ph:3497    th:70    phzvl:1
+
+event:     404
+    st:1    ch:3    ph:3441    th:71    phzvl:1
+
+event:     405
+
+event:     406
+
+event:     407
+
+event:     408
+
+event:     409
+
+event:     410
+
+event:     411
+
+event:     412
+
+event:     413
+
+event:     414
+
+event:     415
+
+event:     416
+
+event:     417
+
+event:     418
+
+event:     419
+
+event:     420
+
+event:     421
+
+event:     422
+
+event:     423
+
+event:     424
+
+event:     425
+
+event:     426
+
+event:     427
+
+event:     428
+
+event:     429
+
+event:     430
+    st:1    ch:0    ph:3337    th:16    phzvl:4
+    st:2    ch:1    ph:3324    th:16    phzvl:4
+
+event:     431
+
+event:     432
+
+event:     433
+
+event:     434
+
+event:     435
+
+event:     436
+
+event:     437
+
+event:     438
+
+event:     439
+
+event:     440
+
+event:     441
+
+event:     442
+
+event:     443
+
+event:     444
+
+event:     445
+
+event:     446
+
+event:     447
+
+event:     448
+
+event:     449
+
+event:     450
+
+event:     451
+
+event:     452
+
+event:     453
+
+event:     454
+
+event:     455
+
+event:     456
+    st:2    ch:2    ph:4844    th:37    phzvl:2
+    st:3    ch:2    ph:4898    th:34    phzvl:2
+
+event:     457
+
+event:     458
+
+event:     459
+
+event:     460
+
+event:     461
+
+event:     462
+
+event:     463
+
+event:     464
+
+event:     465
+
+event:     466
+
+event:     467
+
+event:     468
+
+event:     469
+
+event:     470
+
+event:     471
+
+event:     472
+
+event:     473
+
+event:     474
+
+event:     475
+
+event:     476
+
+event:     477
+
+event:     478
+
+event:     479
+
+event:     480
+
+event:     481
+
+event:     482
+    st:0    ch:0    ph:1551    th:40    phzvl:2
+    st:4    ch:0    ph:1374    th:32    phzvl:2
+    st:5    ch:3    ph:1244    th:35    phzvl:2
+    st:5    ch:5    ph:1298    th:36    phzvl:2
+
+event:     483
+
+event:     484
+
+event:     485
+
+event:     486
+
+event:     487
+
+event:     488
+
+event:     489
+
+event:     490
+
+event:     491
+
+event:     492
+
+event:     493
+
+event:     494
+
+event:     495
+
+event:     496
+
+event:     497
+
+event:     498
+
+event:     499
+
+event:     500
+
+event:     501
+
+event:     502
+
+event:     503
+
+event:     504
+
+event:     505
+
+event:     506
+
+event:     507
+
+event:     508
+    st:1    ch:3    ph:3647    th:50    phzvl:2
+    st:3    ch:6    ph:3571    th:47    phzvl:2
+    st:4    ch:6    ph:3619    th:46    phzvl:2
+
+event:     509
+
+event:     510
+
+event:     511
+
+event:     512
+
+event:     513
+
+event:     514
+
+event:     515
+
+event:     516
+
+event:     517
+
+event:     518
+
+event:     519
+
+event:     520
+
+event:     521
+
+event:     522
+
+event:     523
+
+event:     524
+
+event:     525
+
+event:     526
+
+event:     527
+
+event:     528
+
+event:     529
+
+event:     530
+
+event:     531
+
+event:     532
+
+event:     533
+
+event:     534
+    st:0    ch:5    ph:2592    th:58    phzvl:1
+    st:2    ch:5    ph:2596    th:58    phzvl:1
+    st:3    ch:5    ph:2596    th:58    phzvl:1
+    st:4    ch:5    ph:2600    th:58    phzvl:1
+    st:4    ch:5    ph:2557    th:58    phzvl:1
+
+event:     535
+
+event:     536
+
+event:     537
+
+event:     538
+
+event:     539
+
+event:     540
+
+event:     541
+
+event:     542
+
+event:     543
+
+event:     544
+
+event:     545
+
+event:     546
+
+event:     547
+
+event:     548
+
+event:     549
+
+event:     550
+
+event:     551
+
+event:     552
+
+event:     553
+
+event:     554
+
+event:     555
+
+event:     556
+
+event:     557
+
+event:     558
+
+event:     559
+
+event:     560
+    st:1    ch:1    ph:4191    th:36    phzvl:2
+    st:2    ch:2    ph:3980    th:35    phzvl:2
+    st:3    ch:2    ph:4018    th:35    phzvl:2
+
+event:     561
+
+event:     562
+
+event:     563
+
+event:     564
+
+event:     565
+
+event:     566
+
+event:     567
+
+event:     568
+
+event:     569
+
+event:     570
+
+event:     571
+
+event:     572
+
+event:     573
+
+event:     574
+
+event:     575
+
+event:     576
+
+event:     577
+
+event:     578
+
+event:     579
+
+event:     580
+
+event:     581
+
+event:     582
+
+event:     583
+
+event:     584
+
+event:     585
+
+event:     586
+    st:5    ch:3    ph:380    th:33    phzvl:2
+    st:5    ch:5    ph:418    th:36    phzvl:2
+
+event:     587
+
+event:     588
+
+event:     589
+
+event:     590
+
+event:     591
+
+event:     592
+
+event:     593
+
+event:     594
+
+event:     595
+
+event:     596
+
+event:     597
+
+event:     598
+
+event:     599
+
+event:     600
+
+event:     601
+
+event:     602
+
+event:     603
+
+event:     604
+
+event:     605
+
+event:     606
+
+event:     607
+
+event:     608
+
+event:     609
+
+event:     610
+
+event:     611
+
+event:     612
+    st:0    ch:5    ph:3121    th:77    phzvl:1
+    st:2    ch:5    ph:3152    th:77    phzvl:1
+    st:2    ch:6    ph:3149    th:78    phzvl:1
+    st:3    ch:5    ph:3160    th:77    phzvl:1
+    st:3    ch:6    ph:3161    th:76    phzvl:1
+    st:4    ch:5    ph:3156    th:77    phzvl:1
+    st:4    ch:6    ph:3156    th:76    phzvl:1
+
+event:     613
+
+event:     614
+
+event:     615
+
+event:     616
+
+event:     617
+
+event:     618
+
+event:     619
+
+event:     620
+
+event:     621
+
+event:     622
+
+event:     623
+
+event:     624
+
+event:     625
+
+event:     626
+
+event:     627
+
+event:     628
+
+event:     629
+
+event:     630
+
+event:     631
+
+event:     632
+
+event:     633
+
+event:     634
+
+event:     635
+
+event:     636
+
+event:     637
+
+event:     638
+    st:2    ch:0    ph:2250    th:42    phzvl:2
+    st:4    ch:4    ph:2138    th:46    phzvl:2
+
+event:     639
+
+event:     640
+
+event:     641
+
+event:     642
+
+event:     643
+
+event:     644
+
+event:     645
+
+event:     646
+
+event:     647
+
+event:     648
+
+event:     649
+
+event:     650
+
+event:     651
+
+event:     652
+
+event:     653
+
+event:     654
+
+event:     655
+
+event:     656
+
+event:     657
+
+event:     658
+
+event:     659
+
+event:     660
+
+event:     661
+
+event:     662
+
+event:     663
+
+event:     664
+    st:2    ch:0    ph:2246    th:39    phzvl:2
+    st:4    ch:4    ph:2439    th:40    phzvl:2
+
+event:     665
+
+event:     666
+
+event:     667
+
+event:     668
+
+event:     669
+
+event:     670
+
+event:     671
+
+event:     672
+
+event:     673
+
+event:     674
+
+event:     675
+
+event:     676
+
+event:     677
+
+event:     678
+
+event:     679
+
+event:     680
+
+event:     681
+
+event:     682
+
+event:     683
+
+event:     684
+
+event:     685
+
+event:     686
+
+event:     687
+
+event:     688
+
+event:     689
+
+event:     690
+    st:0    ch:0    ph:1680    th:16    phzvl:4
+    st:2    ch:0    ph:1844    th:17    phzvl:4
+    st:4    ch:0    ph:1900    th:16    phzvl:4
+
+event:     691
+
+event:     692
+
+event:     693
+
+event:     694
+
+event:     695
+
+event:     696
+
+event:     697
+
+event:     698
+
+event:     699
+
+event:     700
+
+event:     701
+
+event:     702
+
+event:     703
+
+event:     704
+
+event:     705
+
+event:     706
+
+event:     707
+
+event:     708
+
+event:     709
+
+event:     710
+
+event:     711
+
+event:     712
+
+event:     713
+
+event:     714
+
+event:     715
+
+event:     716
+    st:4    ch:8    ph:4650    th:49    phzvl:2
+
+event:     717
+
+event:     718
+
+event:     719
+
+event:     720
+
+event:     721
+
+event:     722
+
+event:     723
+
+event:     724
+
+event:     725
+
+event:     726
+
+event:     727
+
+event:     728
+
+event:     729
+
+event:     730
+
+event:     731
+
+event:     732
+
+event:     733
+
+event:     734
+
+event:     735
+
+event:     736
+
+event:     737
+
+event:     738
+
+event:     739
+
+event:     740
+
+event:     741
+
+event:     742
+    st:5    ch:8    ph:1050    th:49    phzvl:2
+
+event:     743
+
+event:     744
+
+event:     745
+
+event:     746
+
+event:     747
+
+event:     748
+
+event:     749
+
+event:     750
+
+event:     751
+
+event:     752
+
+event:     753
+
+event:     754
+
+event:     755
+
+event:     756
+
+event:     757
+
+event:     758
+
+event:     759
+
+event:     760
+
+event:     761
+
+event:     762
+
+event:     763
+
+event:     764
+
+event:     765
+
+event:     766
+
+event:     767
+
+event:     768
+    st:0    ch:4    ph:1953    th:71    phzvl:1
+    st:3    ch:4    ph:2004    th:70    phzvl:1
+    st:3    ch:4    ph:2004    th:66    phzvl:1
+
+event:     769
+
+event:     770
+
+event:     771
+
+event:     772
+
+event:     773
+
+event:     774
+
+event:     775
+
+event:     776
+
+event:     777
+
+event:     778
+
+event:     779
+
+event:     780
+
+event:     781
+
+event:     782
+
+event:     783
+
+event:     784
+
+event:     785
+
+event:     786
+
+event:     787
+
+event:     788
+
+event:     789
+
+event:     790
+
+event:     791
+
+event:     792
+
+event:     793
+
+event:     794
+    st:0    ch:1    ph:2338    th:14    phzvl:4
+    st:0    ch:1    ph:2338    th:14    phzvl:4
+    st:2    ch:0    ph:2260    th:14    phzvl:4
+    st:3    ch:0    ph:2244    th:11    phzvl:4
+
+event:     795
+
+event:     796
+
+event:     797
+
+event:     798
+
+event:     799
+
+event:     800
+
+event:     801
+
+event:     802
+
+event:     803
+
+event:     804
+
+event:     805
+
+event:     806
+
+event:     807
+
+event:     808
+
+event:     809
+
+event:     810
+
+event:     811
+
+event:     812
+
+event:     813
+
+event:     814
+
+event:     815
+
+event:     816
+
+event:     817
+
+event:     818
+
+event:     819
+
+event:     820
+    st:0    ch:1    ph:2017    th:47    phzvl:2
+    st:3    ch:4    ph:2096    th:47    phzvl:2
+    st:4    ch:4    ph:2096    th:47    phzvl:2
+
+event:     821
+
+event:     822
+
+event:     823
+
+event:     824
+
+event:     825
+
+event:     826
+
+event:     827
+
+event:     828
+
+event:     829
+
+event:     830
+
+event:     831
+
+event:     832
+
+event:     833
+
+event:     834
+
+event:     835
+
+event:     836
+
+event:     837
+
+event:     838
+
+event:     839
+
+event:     840
+
+event:     841
+
+event:     842
+
+event:     843
+
+event:     844
+
+event:     845
+
+event:     846
+    st:5    ch:5    ph:332    th:10    phzvl:4
+    st:5    ch:7    ph:332    th:11    phzvl:4
+
+event:     847
+
+event:     848
+
+event:     849
+
+event:     850
+
+event:     851
+
+event:     852
+
+event:     853
+
+event:     854
+
+event:     855
+
+event:     856
+
+event:     857
+
+event:     858
+
+event:     859
+
+event:     860
+
+event:     861
+
+event:     862
+
+event:     863
+
+event:     864
+
+event:     865
+
+event:     866
+
+event:     867
+
+event:     868
+
+event:     869
+
+event:     870
+
+event:     871
+
+event:     872
+    st:1    ch:1    ph:3918    th:11    phzvl:4
+    st:1    ch:1    ph:3813    th:10    phzvl:4
+    st:3    ch:2    ph:3932    th:9    phzvl:4
+    st:4    ch:2    ph:3932    th:10    phzvl:4
+
+event:     873
+
+event:     874
+
+event:     875
+
+event:     876
+
+event:     877
+
+event:     878
+
+event:     879
+
+event:     880
+
+event:     881
+
+event:     882
+
+event:     883
+
+event:     884
+
+event:     885
+
+event:     886
+
+event:     887
+
+event:     888
+
+event:     889
+
+event:     890
+
+event:     891
+
+event:     892
+
+event:     893
+
+event:     894
+
+event:     895
+
+event:     896
+
+event:     897
+
+event:     898
+    st:1    ch:1    ph:4183    th:39    phzvl:2
+    st:1    ch:1    ph:4183    th:39    phzvl:2
+    st:2    ch:2    ph:4612    th:38    phzvl:2
+    st:3    ch:2    ph:4596    th:34    phzvl:2
+
+event:     899
+
+event:     900
+
+event:     901
+
+event:     902
+
+event:     903
+
+event:     904
+
+event:     905
+
+event:     906
+
+event:     907
+
+event:     908
+
+event:     909
+
+event:     910
+
+event:     911
+
+event:     912
+
+event:     913
+
+event:     914
+
+event:     915
+
+event:     916
+
+event:     917
+
+event:     918
+
+event:     919
+
+event:     920
+
+event:     921
+
+event:     922
+
+event:     923
+
+event:     924
+    st:5    ch:3    ph:1012    th:36    phzvl:2
+    st:5    ch:5    ph:996    th:35    phzvl:2
+
+event:     925
+
+event:     926
+
+event:     927
+
+event:     928
+
+event:     929
+
+event:     930
+
+event:     931
+
+event:     932
+
+event:     933
+
+event:     934
+
+event:     935
+
+event:     936
+
+event:     937
+
+event:     938
+
+event:     939
+
+event:     940
+
+event:     941
+
+event:     942
+
+event:     943
+
+event:     944
+
+event:     945
+
+event:     946
+
+event:     947
+
+event:     948
+
+event:     949
+
+event:     950
+    st:0    ch:2    ph:2831    th:46    phzvl:2
+    st:0    ch:2    ph:2831    th:46    phzvl:2
+    st:2    ch:1    ph:2894    th:43    phzvl:2
+    st:4    ch:5    ph:2884    th:46    phzvl:2
+
+event:     951
+
+event:     952
+
+event:     953
+
+event:     954
+
+event:     955
+
+event:     956
+
+event:     957
+
+event:     958
+
+event:     959
+
+event:     960
+
+event:     961
+
+event:     962
+
+event:     963
+
+event:     964
+
+event:     965
+
+event:     966
+
+event:     967
+
+event:     968
+
+event:     969
+
+event:     970
+
+event:     971
+
+event:     972
+
+event:     973
+
+event:     974
+
+event:     975
+
+event:     976
+    st:1    ch:0    ph:3543    th:35    phzvl:2
+    st:1    ch:0    ph:3543    th:35    phzvl:2
+    st:2    ch:1    ph:3222    th:32    phzvl:2
+    st:3    ch:1    ph:3624    th:38    phzvl:2
+
+event:     977
+
+event:     978
+
+event:     979
+
+event:     980
+
+event:     981
+
+event:     982
+
+event:     983
+
+event:     984
+
+event:     985
+
+event:     986
+
+event:     987
+
+event:     988
+
+event:     989
+
+event:     990
+
+event:     991
+
+event:     992
+
+event:     993
+
+event:     994
+
+event:     995
+
+event:     996
+
+event:     997
+
+event:     998
+
+event:     999
+
+event:    1000
+
+event:    1001
+
+event:    1002
+    st:0    ch:3    ph:1921    th:52    phzvl:3
+    st:3    ch:3    ph:1956    th:52    phzvl:3
+    st:4    ch:3    ph:1949    th:52    phzvl:3
+    st:4    ch:4    ph:1948    th:52    phzvl:3
+
+event:    1003
+
+event:    1004
+
+event:    1005
+
+event:    1006
+
+event:    1007
+
+event:    1008
+
+event:    1009
+
+event:    1010
+
+event:    1011
+
+event:    1012
+
+event:    1013
+
+event:    1014
+
+event:    1015
+
+event:    1016
+
+event:    1017
+
+event:    1018
+
+event:    1019
+
+event:    1020
+
+event:    1021
+
+event:    1022
+
+event:    1023
+
+event:    1024
+
+event:    1025
+
+event:    1026
+
+event:    1027
+
+event:    1028
+    st:5    ch:1    ph:965    th:71    phzvl:1
+    st:5    ch:4    ph:976    th:71    phzvl:1
+    st:5    ch:6    ph:980    th:71    phzvl:1
+    st:5    ch:8    ph:980    th:71    phzvl:1
+
+event:    1029
+
+event:    1030
+
+event:    1031
+
+event:    1032
+
+event:    1033
+
+event:    1034
+
+event:    1035
+
+event:    1036
+
+event:    1037
+
+event:    1038
+
+event:    1039
+
+event:    1040
+
+event:    1041
+
+event:    1042
+
+event:    1043
+
+event:    1044
+
+event:    1045
+
+event:    1046
+
+event:    1047
+
+event:    1048
+
+event:    1049
+
+event:    1050
+
+event:    1051
+
+event:    1052
+
+event:    1053
+
+event:    1054
+    st:1    ch:5    ph:4565    th:71    phzvl:1
+    st:2    ch:8    ph:4576    th:71    phzvl:1
+    st:3    ch:8    ph:4580    th:71    phzvl:1
+    st:4    ch:8    ph:4580    th:71    phzvl:1
+
+event:    1055
+
+event:    1056
+
+event:    1057
+
+event:    1058
+
+event:    1059
+
+event:    1060
+
+event:    1061
+
+event:    1062
+
+event:    1063
+
+event:    1064
+
+event:    1065
+
+event:    1066
+
+event:    1067
+
+event:    1068
+
+event:    1069
+
+event:    1070
+
+event:    1071
+
+event:    1072
+
+event:    1073
+
+event:    1074
+
+event:    1075
+
+event:    1076
+
+event:    1077
+
+event:    1078
+
+event:    1079
+
+event:    1080
+    st:0    ch:2    ph:3093    th:45    phzvl:2
+
+event:    1081
+
+event:    1082
+
+event:    1083
+
+event:    1084
+
+event:    1085
+
+event:    1086
+
+event:    1087
+
+event:    1088
+
+event:    1089
+
+event:    1090
+
+event:    1091
+
+event:    1092
+
+event:    1093
+
+event:    1094
+
+event:    1095
+
+event:    1096
+
+event:    1097
+
+event:    1098
+
+event:    1099
+
+event:    1100
+
+event:    1101
+
+event:    1102
+
+event:    1103
+
+event:    1104
+
+event:    1105
+
+event:    1106
+    st:0    ch:1    ph:2065    th:44    phzvl:2
+    st:0    ch:1    ph:2065    th:44    phzvl:2
+
+event:    1107
+
+event:    1108
+
+event:    1109
+
+event:    1110
+
+event:    1111
+
+event:    1112
+
+event:    1113
+
+event:    1114
+
+event:    1115
+
+event:    1116
+
+event:    1117
+
+event:    1118
+
+event:    1119
+
+event:    1120
+
+event:    1121
+
+event:    1122
+
+event:    1123
+
+event:    1124
+
+event:    1125
+
+event:    1126
+
+event:    1127
+
+event:    1128
+
+event:    1129
+
+event:    1130
+
+event:    1131
+
+event:    1132
+    st:1    ch:0    ph:3200    th:26    phzvl:6
+    st:3    ch:1    ph:3501    th:21    phzvl:4
+    st:4    ch:1    ph:3454    th:19    phzvl:4
+
+event:    1133
+
+event:    1134
+
+event:    1135
+
+event:    1136
+
+event:    1137
+
+event:    1138
+
+event:    1139
+
+event:    1140
+
+event:    1141
+
+event:    1142
+
+event:    1143
+
+event:    1144
+
+event:    1145
+
+event:    1146
+
+event:    1147
+
+event:    1148
+
+event:    1149
+
+event:    1150
+
+event:    1151
+
+event:    1152
+
+event:    1153
+
+event:    1154
+
+event:    1155
+
+event:    1156
+
+event:    1157
+
+event:    1158
+    st:0    ch:1    ph:2243    th:40    phzvl:2
+    st:0    ch:1    ph:2243    th:40    phzvl:2
+    st:2    ch:0    ph:1596    th:34    phzvl:2
+
+event:    1159
+
+event:    1160
+
+event:    1161
+
+event:    1162
+
+event:    1163
+
+event:    1164
+
+event:    1165
+
+event:    1166
+
+event:    1167
+
+event:    1168
+
+event:    1169
+
+event:    1170
+
+event:    1171
+
+event:    1172
+
+event:    1173
+
+event:    1174
+
+event:    1175
+
+event:    1176
+
+event:    1177
+
+event:    1178
+
+event:    1179
+
+event:    1180
+
+event:    1181
+
+event:    1182
+
+event:    1183
+
+event:    1184
+    st:1    ch:1    ph:4150    th:5    phzvl:4
+    st:2    ch:2    ph:4020    th:8    phzvl:4
+    st:3    ch:2    ph:4028    th:6    phzvl:4
+    st:4    ch:2    ph:4044    th:7    phzvl:4
+
+event:    1185
+
+event:    1186
+
+event:    1187
+
+event:    1188
+
+event:    1189
+
+event:    1190
+
+event:    1191
+
+event:    1192
+
+event:    1193
+
+event:    1194
+
+event:    1195
+
+event:    1196
+
+event:    1197
+
+event:    1198
+
+event:    1199
+
+event:    1200
+
+event:    1201
+
+event:    1202
+
+event:    1203
+
+event:    1204
+
+event:    1205
+
+event:    1206
+
+event:    1207
+
+event:    1208
+
+event:    1209
+
+event:    1210
+    st:5    ch:3    ph:420    th:7    phzvl:4
+    st:5    ch:5    ph:428    th:7    phzvl:4
+    st:5    ch:7    ph:444    th:8    phzvl:4
+
+event:    1211
+
+event:    1212
+
+event:    1213
+
+event:    1214
+
+event:    1215
+
+event:    1216
+
+event:    1217
+
+event:    1218
+
+event:    1219
+
+event:    1220
+
+event:    1221
+
+event:    1222
+
+event:    1223
+
+event:    1224
+
+event:    1225
+
+event:    1226
+
+event:    1227
+
+event:    1228
+
+event:    1229
+
+event:    1230
+
+event:    1231
+
+event:    1232
+
+event:    1233
+
+event:    1234
+
+event:    1235
+
+event:    1236
+    st:0    ch:1    ph:2047    th:8    phzvl:4
+    st:2    ch:0    ph:2020    th:7    phzvl:4
+    st:3    ch:0    ph:2004    th:7    phzvl:4
+    st:4    ch:0    ph:2004    th:7    phzvl:4
+
+event:    1237
+
+event:    1238
+
+event:    1239
+
+event:    1240
+
+event:    1241
+
+event:    1242
+
+event:    1243
+
+event:    1244
+
+event:    1245
+
+event:    1246
+
+event:    1247
+
+event:    1248
+
+event:    1249
+
+event:    1250
+
+event:    1251
+
+event:    1252
+
+event:    1253
+
+event:    1254
+
+event:    1255
+
+event:    1256
+
+event:    1257
+
+event:    1258
+
+event:    1259
+
+event:    1260
+
+event:    1261
+
+event:    1262
+    st:1    ch:0    ph:3716    th:47    phzvl:2
+    st:1    ch:0    ph:3716    th:47    phzvl:2
+    st:2    ch:1    ph:3660    th:43    phzvl:2
+    st:3    ch:6    ph:3655    th:46    phzvl:2
+    st:4    ch:6    ph:3656    th:46    phzvl:2
+
+event:    1263
+
+event:    1264
+
+event:    1265
+
+event:    1266
+
+event:    1267
+
+event:    1268
+
+event:    1269
+
+event:    1270
+
+event:    1271
+
+event:    1272
+
+event:    1273
+
+event:    1274
+
+event:    1275
+
+event:    1276
+
+event:    1277
+
+event:    1278
+
+event:    1279
+
+event:    1280
+
+event:    1281
+
+event:    1282
+
+event:    1283
+
+event:    1284
+
+event:    1285
+
+event:    1286
+
+event:    1287
+
+event:    1288
+    st:0    ch:1    ph:2161    th:24    phzvl:6
+    st:0    ch:1    ph:2161    th:24    phzvl:6
+    st:2    ch:0    ph:2188    th:24    phzvl:6
+    st:3    ch:0    ph:2188    th:22    phzvl:4
+    st:3    ch:0    ph:2188    th:20    phzvl:4
+    st:4    ch:0    ph:2190    th:22    phzvl:4
+
+event:    1289
+
+event:    1290
+
+event:    1291
+
+event:    1292
+
+event:    1293
+
+event:    1294
+
+event:    1295
+
+event:    1296
+
+event:    1297
+
+event:    1298
+
+event:    1299
+
+event:    1300
+
+event:    1301
+
+event:    1302
+
+event:    1303
+
+event:    1304
+
+event:    1305
+
+event:    1306
+
+event:    1307
+
+event:    1308
+
+event:    1309
+
+event:    1310
+
+event:    1311
+
+event:    1312
+
+event:    1313
+
+event:    1314
+    st:1    ch:4    ph:4003    th:68    phzvl:1
+    st:2    ch:7    ph:3944    th:68    phzvl:1
+    st:3    ch:7    ph:3940    th:68    phzvl:1
+    st:4    ch:7    ph:3944    th:68    phzvl:1
+
+event:    1315
+
+event:    1316
+
+event:    1317
+
+event:    1318
+
+event:    1319
+
+event:    1320
+
+event:    1321
+
+event:    1322
+
+event:    1323
+
+event:    1324
+
+event:    1325
+
+event:    1326
+
+event:    1327
+
+event:    1328
+
+event:    1329
+
+event:    1330
+
+event:    1331
+
+event:    1332
+
+event:    1333
+
+event:    1334
+
+event:    1335
+
+event:    1336
+
+event:    1337
+
+event:    1338
+
+event:    1339
+
+event:    1340
+    st:1    ch:0    ph:3523    th:28    phzvl:2
+    st:1    ch:0    ph:3523    th:28    phzvl:2
+    st:2    ch:1    ph:3476    th:25    phzvl:6
+    st:4    ch:1    ph:3468    th:28    phzvl:2
+
+event:    1341
+
+event:    1342
+
+event:    1343
+
+event:    1344
+
+event:    1345
+
+event:    1346
+
+event:    1347
+
+event:    1348
+
+event:    1349
+
+event:    1350
+
+event:    1351
+
+event:    1352
+
+event:    1353
+
+event:    1354
+
+event:    1355
+
+event:    1356
+
+event:    1357
+
+event:    1358
+
+event:    1359
+
+event:    1360
+
+event:    1361
+
+event:    1362
+
+event:    1363
+
+event:    1364
+
+event:    1365
+
+event:    1366
+    st:0    ch:2    ph:2938    th:21    phzvl:4
+    st:0    ch:2    ph:2938    th:21    phzvl:4
+    st:2    ch:1    ph:3020    th:21    phzvl:4
+    st:4    ch:1    ph:3020    th:21    phzvl:4
+
+event:    1367
+
+event:    1368
+
+event:    1369
+
+event:    1370
+
+event:    1371
+
+event:    1372
+
+event:    1373
+
+event:    1374
+
+event:    1375
+
+event:    1376
+
+event:    1377
+
+event:    1378
+
+event:    1379
+
+event:    1380
+
+event:    1381
+
+event:    1382
+
+event:    1383
+
+event:    1384
+
+event:    1385
+
+event:    1386
+
+event:    1387
+
+event:    1388
+
+event:    1389
+
+event:    1390
+
+event:    1391
+
+event:    1392
+    st:0    ch:4    ph:2502    th:53    phzvl:3
+    st:0    ch:5    ph:2549    th:52    phzvl:3
+    st:3    ch:5    ph:2652    th:52    phzvl:3
+    st:4    ch:5    ph:2624    th:51    phzvl:3
+
+event:    1393
+
+event:    1394
+
+event:    1395
+
+event:    1396
+
+event:    1397
+
+event:    1398
+
+event:    1399
+
+event:    1400
+
+event:    1401
+
+event:    1402
+
+event:    1403
+
+event:    1404
+
+event:    1405
+
+event:    1406
+
+event:    1407
+
+event:    1408
+
+event:    1409
+
+event:    1410
+
+event:    1411
+
+event:    1412
+
+event:    1413
+
+event:    1414
+
+event:    1415
+
+event:    1416
+
+event:    1417
+
+event:    1418
+    st:0    ch:1    ph:2210    th:24    phzvl:6
+    st:0    ch:1    ph:2338    th:25    phzvl:6
+    st:2    ch:1    ph:2638    th:24    phzvl:6
+    st:3    ch:1    ph:2661    th:27    phzvl:2
+    st:4    ch:1    ph:2622    th:27    phzvl:2
+
+event:    1419
+
+event:    1420
+
+event:    1421
+
+event:    1422
+
+event:    1423
+
+event:    1424
+
+event:    1425
+
+event:    1426
+
+event:    1427
+
+event:    1428
+
+event:    1429
+
+event:    1430
+
+event:    1431
+
+event:    1432
+
+event:    1433
+
+event:    1434
+
+event:    1435
+
+event:    1436
+
+event:    1437
+
+event:    1438
+
+event:    1439
+
+event:    1440
+
+event:    1441
+
+event:    1442
+
+event:    1443
+
+event:    1444
+    st:0    ch:0    ph:1903    th:48    phzvl:2
+    st:0    ch:3    ph:1864    th:48    phzvl:2
+    st:2    ch:0    ph:1842    th:47    phzvl:2
+    st:3    ch:3    ph:1832    th:47    phzvl:2
+    st:4    ch:3    ph:1832    th:47    phzvl:2
+
+event:    1445
+
+event:    1446
+
+event:    1447
+
+event:    1448
+
+event:    1449
+
+event:    1450
+
+event:    1451
+
+event:    1452
+
+event:    1453
+
+event:    1454
+
+event:    1455
+
+event:    1456
+
+event:    1457
+
+event:    1458
+
+event:    1459
+
+event:    1460
+
+event:    1461
+
+event:    1462
+
+event:    1463
+
+event:    1464
+
+event:    1465
+
+event:    1466
+
+event:    1467
+
+event:    1468
+
+event:    1469
+
+event:    1470
+    st:1    ch:2    ph:4482    th:47    phzvl:2
+    st:2    ch:2    ph:4492    th:47    phzvl:2
+    st:3    ch:8    ph:4496    th:47    phzvl:2
+    st:4    ch:8    ph:4496    th:47    phzvl:2
+
+event:    1471
+
+event:    1472
+
+event:    1473
+
+event:    1474
+
+event:    1475
+
+event:    1476
+
+event:    1477
+
+event:    1478
+
+event:    1479
+
+event:    1480
+
+event:    1481
+
+event:    1482
+
+event:    1483
+
+event:    1484
+
+event:    1485
+
+event:    1486
+
+event:    1487
+
+event:    1488
+
+event:    1489
+
+event:    1490
+
+event:    1491
+
+event:    1492
+
+event:    1493
+
+event:    1494
+
+event:    1495
+
+event:    1496
+    st:5    ch:0    ph:883    th:47    phzvl:2
+    st:5    ch:3    ph:892    th:45    phzvl:2
+    st:5    ch:6    ph:896    th:47    phzvl:2
+    st:5    ch:8    ph:896    th:47    phzvl:2
+
+event:    1497
+
+event:    1498
+
+event:    1499
+
+event:    1500
+
+event:    1501
+
+event:    1502
+
+event:    1503
+
+event:    1504
+
+event:    1505
+
+event:    1506
+
+event:    1507
+
+event:    1508
+
+event:    1509
+
+event:    1510
+
+event:    1511
+
+event:    1512
+
+event:    1513
+
+event:    1514
+
+event:    1515
+
+event:    1516
+
+event:    1517
+
+event:    1518
+
+event:    1519
+
+event:    1520
+
+event:    1521
+
+event:    1522
+    st:2    ch:2    ph:4308    th:7    phzvl:4
+    st:3    ch:2    ph:4332    th:7    phzvl:4
+    st:4    ch:2    ph:4332    th:7    phzvl:4
+
+event:    1523
+
+event:    1524
+
+event:    1525
+
+event:    1526
+
+event:    1527
+
+event:    1528
+
+event:    1529
+
+event:    1530
+
+event:    1531
+
+event:    1532
+
+event:    1533
+
+event:    1534
+
+event:    1535
+
+event:    1536
+
+event:    1537
+
+event:    1538
+
+event:    1539
+
+event:    1540
+
+event:    1541
+
+event:    1542
+
+event:    1543
+
+event:    1544
+
+event:    1545
+
+event:    1546
+
+event:    1547
+
+event:    1548
+    st:5    ch:3    ph:708    th:6    phzvl:4
+    st:5    ch:5    ph:732    th:8    phzvl:4
+    st:5    ch:7    ph:732    th:8    phzvl:4
+
+event:    1549
+
+event:    1550
+
+event:    1551
+
+event:    1552
+
+event:    1553
+
+event:    1554
+
+event:    1555
+
+event:    1556
+
+event:    1557
+
+event:    1558
+
+event:    1559
+
+event:    1560
+
+event:    1561
+
+event:    1562
+
+event:    1563
+
+event:    1564
+
+event:    1565
+
+event:    1566
+
+event:    1567
+
+event:    1568
+
+event:    1569
+
+event:    1570
+
+event:    1571
+
+event:    1572
+
+event:    1573
+
+event:    1574
+    st:0    ch:1    ph:2038    th:19    phzvl:4
+    st:0    ch:1    ph:2038    th:19    phzvl:4
+    st:2    ch:0    ph:2076    th:17    phzvl:4
+    st:3    ch:0    ph:2062    th:14    phzvl:4
+    st:4    ch:0    ph:2022    th:14    phzvl:4
+
+event:    1575
+
+event:    1576
+
+event:    1577
+
+event:    1578
+
+event:    1579
+
+event:    1580
+
+event:    1581
+
+event:    1582
+
+event:    1583
+
+event:    1584
+
+event:    1585
+
+event:    1586
+
+event:    1587
+
+event:    1588
+
+event:    1589
+
+event:    1590
+
+event:    1591
+
+event:    1592
+
+event:    1593
+
+event:    1594
+
+event:    1595
+
+event:    1596
+
+event:    1597
+
+event:    1598
+
+event:    1599
+
+event:    1600
+    st:1    ch:0    ph:3272    th:38    phzvl:2
+    st:2    ch:2    ph:3846    th:33    phzvl:2
+    st:3    ch:1    ph:3642    th:31    phzvl:2
+    st:3    ch:2    ph:3726    th:28    phzvl:2
+    st:4    ch:1    ph:3334    th:31    phzvl:2
+
+event:    1601
+
+event:    1602
+
+event:    1603
+
+event:    1604
+
+event:    1605
+
+event:    1606
+
+event:    1607
+
+event:    1608
+
+event:    1609
+
+event:    1610
+
+event:    1611
+
+event:    1612
+
+event:    1613
+
+event:    1614
+
+event:    1615
+
+event:    1616
+
+event:    1617
+
+event:    1618
+
+event:    1619
+
+event:    1620
+
+event:    1621
+
+event:    1622
+
+event:    1623
+
+event:    1624
+
+event:    1625
+
+event:    1626
+    st:5    ch:3    ph:246    th:31    phzvl:2
+    st:5    ch:5    ph:126    th:29    phzvl:2
+
+event:    1627
+
+event:    1628
+
+event:    1629
+
+event:    1630
+
+event:    1631
+
+event:    1632
+
+event:    1633
+
+event:    1634
+
+event:    1635
+
+event:    1636
+
+event:    1637
+
+event:    1638
+
+event:    1639
+
+event:    1640
+
+event:    1641
+
+event:    1642
+
+event:    1643
+
+event:    1644
+
+event:    1645
+
+event:    1646
+
+event:    1647
+
+event:    1648
+
+event:    1649
+
+event:    1650
+
+event:    1651
+
+event:    1652
+    st:1    ch:3    ph:3479    th:73    phzvl:1
+    st:2    ch:6    ph:3344    th:72    phzvl:1
+    st:3    ch:6    ph:3454    th:74    phzvl:1
+    st:4    ch:6    ph:3544    th:79    phzvl:1
+
+event:    1653
+
+event:    1654
+
+event:    1655
+
+event:    1656
+
+event:    1657
+
+event:    1658
+
+event:    1659
+
+event:    1660
+
+event:    1661
+
+event:    1662
+
+event:    1663
+
+event:    1664
+
+event:    1665
+
+event:    1666
+
+event:    1667
+
+event:    1668
+
+event:    1669
+
+event:    1670
+
+event:    1671
+
+event:    1672
+
+event:    1673
+
+event:    1674
+
+event:    1675
+
+event:    1676
+
+event:    1677
+
+event:    1678
+    st:1    ch:0    ph:3258    th:44    phzvl:2
+    st:1    ch:0    ph:3258    th:44    phzvl:2
+    st:2    ch:1    ph:2860    th:40    phzvl:2
+    st:4    ch:5    ph:2832    th:42    phzvl:2
+
+event:    1679
+
+event:    1680
+
+event:    1681
+
+event:    1682
+
+event:    1683
+
+event:    1684
+
+event:    1685
+
+event:    1686
+
+event:    1687
+
+event:    1688
+
+event:    1689
+
+event:    1690
+
+event:    1691
+
+event:    1692
+
+event:    1693
+
+event:    1694
+
+event:    1695
+
+event:    1696
+
+event:    1697
+
+event:    1698
+
+event:    1699
+
+event:    1700
+
+event:    1701
+
+event:    1702
+
+event:    1703
+
+event:    1704
+    st:1    ch:2    ph:4571    th:42    phzvl:2
+    st:2    ch:2    ph:4244    th:40    phzvl:2
+
+event:    1705
+
+event:    1706
+
+event:    1707
+
+event:    1708
+
+event:    1709
+
+event:    1710
+
+event:    1711
+
+event:    1712
+
+event:    1713
+
+event:    1714
+
+event:    1715
+
+event:    1716
+
+event:    1717
+
+event:    1718
+
+event:    1719
+
+event:    1720
+
+event:    1721
+
+event:    1722
+
+event:    1723
+
+event:    1724
+
+event:    1725
+
+event:    1726
+
+event:    1727
+
+event:    1728
+
+event:    1729
+
+event:    1730
+    st:5    ch:0    ph:972    th:42    phzvl:2
+    st:5    ch:3    ph:644    th:38    phzvl:2
+
+event:    1731
+
+event:    1732
+
+event:    1733
+
+event:    1734
+
+event:    1735
+
+event:    1736
+
+event:    1737
+
+event:    1738
+
+event:    1739
+
+event:    1740
+
+event:    1741
+
+event:    1742
+
+event:    1743
+
+event:    1744
+
+event:    1745
+
+event:    1746
+
+event:    1747
+
+event:    1748
+
+event:    1749
+
+event:    1750
+
+event:    1751
+
+event:    1752
+
+event:    1753
+
+event:    1754
+
+event:    1755
+
+event:    1756
+    st:0    ch:2    ph:2745    th:21    phzvl:4
+    st:0    ch:2    ph:2878    th:22    phzvl:4
+    st:2    ch:1    ph:3012    th:19    phzvl:4
+    st:3    ch:1    ph:3005    th:18    phzvl:4
+    st:4    ch:1    ph:2966    th:17    phzvl:4
+
+event:    1757
+
+event:    1758
+
+event:    1759
+
+event:    1760
+
+event:    1761
+
+event:    1762
+
+event:    1763
+
+event:    1764
+
+event:    1765
+
+event:    1766
+
+event:    1767
+
+event:    1768
+
+event:    1769
+
+event:    1770
+
+event:    1771
+
+event:    1772
+
+event:    1773
+
+event:    1774
+
+event:    1775
+
+event:    1776
+
+event:    1777
+
+event:    1778
+
+event:    1779
+
+event:    1780
+
+event:    1781
+
+event:    1782
+    st:0    ch:1    ph:2257    th:28    phzvl:2
+    st:0    ch:1    ph:2326    th:28    phzvl:2
+    st:2    ch:0    ph:2362    th:26    phzvl:2
+    st:3    ch:0    ph:2332    th:23    phzvl:6
+
+event:    1783
+
+event:    1784
+
+event:    1785
+
+event:    1786
+
+event:    1787
+
+event:    1788
+
+event:    1789
+
+event:    1790
+
+event:    1791
+
+event:    1792
+
+event:    1793
+
+event:    1794
+
+event:    1795
+
+event:    1796
+
+event:    1797
+
+event:    1798
+
+event:    1799
+
+event:    1800
+
+event:    1801
+
+event:    1802
+
+event:    1803
+
+event:    1804
+
+event:    1805
+
+event:    1806
+
+event:    1807
+
+event:    1808
+    st:1    ch:4    ph:3890    th:50    phzvl:2
+    st:2    ch:2    ph:3798    th:46    phzvl:2
+
+event:    1809
+
+event:    1810
+
+event:    1811
+
+event:    1812
+
+event:    1813
+
+event:    1814
+
+event:    1815
+
+event:    1816
+
+event:    1817
+
+event:    1818
+
+event:    1819
+
+event:    1820
+
+event:    1821
+
+event:    1822
+
+event:    1823
+
+event:    1824
+
+event:    1825
+
+event:    1826
+
+event:    1827
+
+event:    1828
+
+event:    1829
+
+event:    1830
+
+event:    1831
+
+event:    1832
+
+event:    1833
+
+event:    1834
+    st:5    ch:3    ph:198    th:44    phzvl:2
+
+event:    1835
+
+event:    1836
+
+event:    1837
+
+event:    1838
+
+event:    1839
+
+event:    1840
+
+event:    1841
+
+event:    1842
+
+event:    1843
+
+event:    1844
+
+event:    1845
+
+event:    1846
+
+event:    1847
+
+event:    1848
+
+event:    1849
+
+event:    1850
+
+event:    1851
+
+event:    1852
+
+event:    1853
+
+event:    1854
+
+event:    1855
+
+event:    1856
+
+event:    1857
+
+event:    1858
+
+event:    1859
+
+event:    1860
+    st:0    ch:2    ph:2975    th:20    phzvl:4
+    st:0    ch:2    ph:2975    th:20    phzvl:4
+    st:2    ch:1    ph:3044    th:17    phzvl:4
+    st:3    ch:1    ph:3061    th:20    phzvl:4
+    st:4    ch:1    ph:3052    th:20    phzvl:4
+
+event:    1861
+
+event:    1862
+
+event:    1863
+
+event:    1864
+
+event:    1865
+
+event:    1866
+
+event:    1867
+
+event:    1868
+
+event:    1869
+
+event:    1870
+
+event:    1871
+
+event:    1872
+
+event:    1873
+
+event:    1874
+
+event:    1875
+
+event:    1876
+
+event:    1877
+
+event:    1878
+
+event:    1879
+
+event:    1880
+
+event:    1881
+
+event:    1882
+
+event:    1883
+
+event:    1884
+
+event:    1885
+
+event:    1886
+    st:0    ch:0    ph:1514    th:19    phzvl:4
+    st:0    ch:0    ph:1514    th:19    phzvl:4
+    st:2    ch:0    ph:1990    th:16    phzvl:4
+    st:3    ch:0    ph:1996    th:12    phzvl:4
+    st:4    ch:0    ph:1918    th:13    phzvl:4
+
+event:    1887
+
+event:    1888
+
+event:    1889
+
+event:    1890
+
+event:    1891
+
+event:    1892
+
+event:    1893
+
+event:    1894
+
+event:    1895
+
+event:    1896
+
+event:    1897
+
+event:    1898
+
+event:    1899
+
+event:    1900
+
+event:    1901
+
+event:    1902
+
+event:    1903
+
+event:    1904
+
+event:    1905
+
+event:    1906
+
+event:    1907
+
+event:    1908
+
+event:    1909
+
+event:    1910
+
+event:    1911
+
+event:    1912
+    st:0    ch:1    ph:2149    th:28    phzvl:2
+    st:2    ch:0    ph:2022    th:28    phzvl:2
+    st:3    ch:0    ph:2020    th:25    phzvl:6
+    st:4    ch:0    ph:2028    th:26    phzvl:2
+
+event:    1913
+
+event:    1914
+
+event:    1915
+
+event:    1916
+
+event:    1917
+
+event:    1918
+
+event:    1919
+
+event:    1920
+
+event:    1921
+
+event:    1922
+
+event:    1923
+
+event:    1924
+
+event:    1925
+
+event:    1926
+
+event:    1927
+
+event:    1928
+
+event:    1929
+
+event:    1930
+
+event:    1931
+
+event:    1932
+
+event:    1933
+
+event:    1934
+
+event:    1935
+
+event:    1936
+
+event:    1937
+
+event:    1938
+    st:0    ch:0    ph:1678    th:31    phzvl:2
+    st:2    ch:0    ph:1540    th:32    phzvl:2
+    st:3    ch:0    ph:1532    th:29    phzvl:2
+    st:4    ch:0    ph:1518    th:29    phzvl:2
+
+event:    1939
+
+event:    1940
+
+event:    1941
+
+event:    1942
+
+event:    1943
+
+event:    1944
+
+event:    1945
+
+event:    1946
+
+event:    1947
+
+event:    1948
+
+event:    1949
+
+event:    1950
+
+event:    1951
+
+event:    1952
+
+event:    1953
+
+event:    1954
+
+event:    1955
+
+event:    1956
+
+event:    1957
+
+event:    1958
+
+event:    1959
+
+event:    1960
+
+event:    1961
+
+event:    1962
+
+event:    1963
+
+event:    1964
+    st:0    ch:4    ph:2477    th:54    phzvl:3
+    st:2    ch:5    ph:2576    th:54    phzvl:1
+    st:3    ch:5    ph:2580    th:54    phzvl:3
+    st:3    ch:5    ph:2580    th:56    phzvl:3
+    st:4    ch:5    ph:2567    th:54    phzvl:3
+
+event:    1965
+
+event:    1966
+
+event:    1967
+
+event:    1968
+
+event:    1969
+
+event:    1970
+
+event:    1971
+
+event:    1972
+
+event:    1973
+
+event:    1974
+
+event:    1975
+
+event:    1976
+
+event:    1977
+
+event:    1978
+
+event:    1979
+
+event:    1980
+
+event:    1981
+
+event:    1982
+
+event:    1983
+
+event:    1984
+
+event:    1985
+
+event:    1986
+
+event:    1987
+
+event:    1988
+
+event:    1989
+
+event:    1990
+    st:1    ch:1    ph:4173    th:18    phzvl:4
+    st:1    ch:1    ph:4173    th:18    phzvl:4
+    st:2    ch:2    ph:4428    th:17    phzvl:4
+    st:3    ch:2    ph:4414    th:17    phzvl:4
+    st:4    ch:2    ph:4348    th:18    phzvl:4
+
+event:    1991
+
+event:    1992
+
+event:    1993
+
+event:    1994
+
+event:    1995
+
+event:    1996
+
+event:    1997
+
+event:    1998
+
+event:    1999
+
+event:    2000
+
+event:    2001
+
+event:    2002
+
+event:    2003
+
+event:    2004
+
+event:    2005
+
+event:    2006
+
+event:    2007
+
+event:    2008
+
+event:    2009
+
+event:    2010
+
+event:    2011
+
+event:    2012
+
+event:    2013
+
+event:    2014
+
+event:    2015
+
+event:    2016
+    st:5    ch:3    ph:828    th:16    phzvl:4
+    st:5    ch:5    ph:814    th:19    phzvl:4
+    st:5    ch:7    ph:748    th:19    phzvl:4
+
+event:    2017
+
+event:    2018
+
+event:    2019
+
+event:    2020
+
+event:    2021
+
+event:    2022
+
+event:    2023
+
+event:    2024
+
+event:    2025
+
+event:    2026
+
+event:    2027
+
+event:    2028
+
+event:    2029
+
+event:    2030
+
+event:    2031
+
+event:    2032
+
+event:    2033
+
+event:    2034
+
+event:    2035
+
+event:    2036
+
+event:    2037
+
+event:    2038
+
+event:    2039
+
+event:    2040
+
+event:    2041
+
+event:    2042
+    st:0    ch:4    ph:2428    th:68    phzvl:1
+    st:2    ch:4    ph:2404    th:67    phzvl:1
+    st:3    ch:4    ph:2397    th:67    phzvl:1
+    st:4    ch:4    ph:2400    th:69    phzvl:1
+    st:4    ch:4    ph:2357    th:69    phzvl:1
+
+event:    2043
+
+event:    2044
+
+event:    2045
+
+event:    2046
+
+event:    2047
+
+event:    2048
+
+event:    2049
+
+event:    2050
+
+event:    2051
+
+event:    2052
+
+event:    2053
+
+event:    2054
+
+event:    2055
+
+event:    2056
+
+event:    2057
+
+event:    2058
+
+event:    2059
+
+event:    2060
+
+event:    2061
+
+event:    2062
+
+event:    2063
+
+event:    2064
+
+event:    2065
+
+event:    2066
+
+event:    2067
+
+event:    2068
+    st:2    ch:0    ph:2354    th:45    phzvl:2
+
+event:    2069
+
+event:    2070
+
+event:    2071
+
+event:    2072
+
+event:    2073
+
+event:    2074
+
+event:    2075
+
+event:    2076
+
+event:    2077
+
+event:    2078
+
+event:    2079
+
+event:    2080
+
+event:    2081
+
+event:    2082
+
+event:    2083
+
+event:    2084
+
+event:    2085
+
+event:    2086
+
+event:    2087
+
+event:    2088
+
+event:    2089
+
+event:    2090
+
+event:    2091
+
+event:    2092
+
+event:    2093
+
+event:    2094
+    st:1    ch:1    ph:4152    th:14    phzvl:4
+    st:2    ch:2    ph:4084    th:14    phzvl:4
+    st:3    ch:2    ph:4068    th:14    phzvl:4
+    st:4    ch:2    ph:4076    th:14    phzvl:4
+
+event:    2095
+
+event:    2096
+
+event:    2097
+
+event:    2098
+
+event:    2099
+
+event:    2100
+
+event:    2101
+
+event:    2102
+
+event:    2103
+
+event:    2104
+
+event:    2105
+
+event:    2106
+
+event:    2107
+
+event:    2108
+
+event:    2109
+
+event:    2110
+
+event:    2111
+
+event:    2112
+
+event:    2113
+
+event:    2114
+
+event:    2115
+
+event:    2116
+
+event:    2117
+
+event:    2118
+
+event:    2119
+
+event:    2120
+    st:5    ch:3    ph:484    th:13    phzvl:4
+    st:5    ch:5    ph:468    th:15    phzvl:4
+    st:5    ch:7    ph:476    th:15    phzvl:4
+
+event:    2121
+
+event:    2122
+
+event:    2123
+
+event:    2124
+
+event:    2125
+
+event:    2126
+
+event:    2127
+
+event:    2128
+
+event:    2129
+
+event:    2130
+
+event:    2131
+
+event:    2132
+
+event:    2133
+
+event:    2134
+
+event:    2135
+
+event:    2136
+
+event:    2137
+
+event:    2138
+
+event:    2139
+
+event:    2140
+
+event:    2141
+
+event:    2142
+
+event:    2143
+
+event:    2144
+
+event:    2145
+
+event:    2146
+    st:0    ch:0    ph:1845    th:16    phzvl:4
+    st:2    ch:0    ph:1868    th:17    phzvl:4
+    st:3    ch:0    ph:1876    th:15    phzvl:4
+
+event:    2147
+
+event:    2148
+
+event:    2149
+
+event:    2150
+
+event:    2151
+
+event:    2152
+
+event:    2153
+
+event:    2154
+
+event:    2155
+
+event:    2156
+
+event:    2157
+
+event:    2158
+
+event:    2159
+
+event:    2160
+
+event:    2161
+
+event:    2162
+
+event:    2163
+
+event:    2164
+
+event:    2165
+
+event:    2166
+
+event:    2167
+
+event:    2168
+
+event:    2169
+
+event:    2170
+
+event:    2171
+
+event:    2172
+    st:0    ch:4    ph:2003    th:69    phzvl:1
+    st:2    ch:3    ph:1920    th:66    phzvl:1
+    st:3    ch:3    ph:1947    th:64    phzvl:1
+    st:3    ch:4    ph:1963    th:64    phzvl:1
+    st:4    ch:4    ph:2008    th:62    phzvl:1
+
+event:    2173
+
+event:    2174
+
+event:    2175
+
+event:    2176
+
+event:    2177
+
+event:    2178
+
+event:    2179
+
+event:    2180
+
+event:    2181
+
+event:    2182
+
+event:    2183
+
+event:    2184
+
+event:    2185
+
+event:    2186
+
+event:    2187
+
+event:    2188
+
+event:    2189
+
+event:    2190
+
+event:    2191
+
+event:    2192
+
+event:    2193
+
+event:    2194
+
+event:    2195
+
+event:    2196
+
+event:    2197
+
+event:    2198
+    st:1    ch:5    ph:4617    th:60    phzvl:1
+    st:3    ch:8    ph:4703    th:59    phzvl:1
+    st:4    ch:8    ph:4688    th:59    phzvl:1
+
+event:    2199
+
+event:    2200
+
+event:    2201
+
+event:    2202
+
+event:    2203
+
+event:    2204
+
+event:    2205
+
+event:    2206
+
+event:    2207
+
+event:    2208
+
+event:    2209
+
+event:    2210
+
+event:    2211
+
+event:    2212
+
+event:    2213
+
+event:    2214
+
+event:    2215
+
+event:    2216
+
+event:    2217
+
+event:    2218
+
+event:    2219
+
+event:    2220
+
+event:    2221
+
+event:    2222
+
+event:    2223
+
+event:    2224
+    st:5    ch:1    ph:1017    th:60    phzvl:1
+    st:5    ch:6    ph:1103    th:59    phzvl:1
+    st:5    ch:8    ph:1088    th:59    phzvl:1
+
+event:    2225
+
+event:    2226
+
+event:    2227
+
+event:    2228
+
+event:    2229
+
+event:    2230
+
+event:    2231
+
+event:    2232
+
+event:    2233
+
+event:    2234
+
+event:    2235
+
+event:    2236
+
+event:    2237
+
+event:    2238
+
+event:    2239
+
+event:    2240
+
+event:    2241
+
+event:    2242
+
+event:    2243
+
+event:    2244
+
+event:    2245
+
+event:    2246
+
+event:    2247
+
+event:    2248
+
+event:    2249
+
+event:    2250
+    st:1    ch:3    ph:3525    th:64    phzvl:1
+    st:2    ch:6    ph:3588    th:63    phzvl:1
+    st:3    ch:6    ph:3577    th:61    phzvl:1
+
+event:    2251
+
+event:    2252
+
+event:    2253
+
+event:    2254
+
+event:    2255
+
+event:    2256
+
+event:    2257
+
+event:    2258
+
+event:    2259
+
+event:    2260
+
+event:    2261
+
+event:    2262
+
+event:    2263
+
+event:    2264
+
+event:    2265
+
+event:    2266
+
+event:    2267
+
+event:    2268
+
+event:    2269
+
+event:    2270
+
+event:    2271
+
+event:    2272
+
+event:    2273
+
+event:    2274
+
+event:    2275
+
+event:    2276
+    st:0    ch:5    ph:2543    th:68    phzvl:1
+    st:2    ch:4    ph:2508    th:68    phzvl:1
+    st:4    ch:4    ph:2520    th:68    phzvl:1
+
+event:    2277
+
+event:    2278
+
+event:    2279
+
+event:    2280
+
+event:    2281
+
+event:    2282
+
+event:    2283
+
+event:    2284
+
+event:    2285
+
+event:    2286
+
+event:    2287
+
+event:    2288
+
+event:    2289
+
+event:    2290
+
+event:    2291
+
+event:    2292
+
+event:    2293
+
+event:    2294
+
+event:    2295
+
+event:    2296
+
+event:    2297
+
+event:    2298
+
+event:    2299
+
+event:    2300
+
+event:    2301
+
+event:    2302
+    st:2    ch:1    ph:3644    th:7    phzvl:4
+    st:3    ch:1    ph:3685    th:9    phzvl:4
+    st:4    ch:1    ph:3692    th:9    phzvl:4
+
+event:    2303
+
+event:    2304
+
+event:    2305
+
+event:    2306
+
+event:    2307
+
+event:    2308
+
+event:    2309
+
+event:    2310
+
+event:    2311
+
+event:    2312
+
+event:    2313
+
+event:    2314
+
+event:    2315
+
+event:    2316
+
+event:    2317
+
+event:    2318
+
+event:    2319
+
+event:    2320
+
+event:    2321
+
+event:    2322
+
+event:    2323
+
+event:    2324
+
+event:    2325
+
+event:    2326
+
+event:    2327
+
+event:    2328
+    st:0    ch:1    ph:2330    th:7    phzvl:4
+    st:2    ch:0    ph:2210    th:7    phzvl:4
+    st:3    ch:0    ph:2180    th:6    phzvl:4
+    st:4    ch:0    ph:2172    th:7    phzvl:4
+
+event:    2329
+
+event:    2330
+
+event:    2331
+
+event:    2332
+
+event:    2333
+
+event:    2334
+
+event:    2335
+
+event:    2336
+
+event:    2337
+
+event:    2338
+
+event:    2339
+
+event:    2340
+
+event:    2341
+
+event:    2342
+
+event:    2343
+
+event:    2344
+
+event:    2345
+
+event:    2346
+
+event:    2347
+
+event:    2348
+
+event:    2349
+
+event:    2350
+
+event:    2351
+
+event:    2352
+
+event:    2353
+
+event:    2354
+    st:1    ch:4    ph:3885    th:57    phzvl:1
+
+event:    2355
+
+event:    2356
+
+event:    2357
+
+event:    2358
+
+event:    2359
+
+event:    2360
+
+event:    2361
+
+event:    2362
+
+event:    2363
+
+event:    2364
+
+event:    2365
+
+event:    2366
+
+event:    2367
+
+event:    2368
+
+event:    2369
+
+event:    2370
+
+event:    2371
+
+event:    2372
+
+event:    2373
+
+event:    2374
+
+event:    2375
+
+event:    2376
+
+event:    2377
+
+event:    2378
+
+event:    2379
+
+event:    2380
+    st:5    ch:3    ph:396    th:22    phzvl:4
+    st:5    ch:3    ph:506    th:22    phzvl:4
+    st:5    ch:5    ph:394    th:22    phzvl:4
+    st:5    ch:7    ph:396    th:22    phzvl:4
+
+event:    2381
+
+event:    2382
+
+event:    2383
+
+event:    2384
+
+event:    2385
+
+event:    2386
+
+event:    2387
+
+event:    2388
+
+event:    2389
+
+event:    2390
+
+event:    2391
+
+event:    2392
+
+event:    2393
+
+event:    2394
+
+event:    2395
+
+event:    2396
+
+event:    2397
+
+event:    2398
+
+event:    2399
+
+event:    2400
+
+event:    2401
+
+event:    2402
+
+event:    2403
+
+event:    2404
+
+event:    2405
+
+event:    2406
+    st:1    ch:1    ph:4054    th:23    phzvl:4
+    st:2    ch:2    ph:3996    th:24    phzvl:6
+    st:2    ch:2    ph:4106    th:24    phzvl:6
+    st:3    ch:2    ph:3994    th:20    phzvl:4
+    st:4    ch:2    ph:3996    th:21    phzvl:4
+
+event:    2407
+
+event:    2408
+
+event:    2409
+
+event:    2410
+
+event:    2411
+
+event:    2412
+
+event:    2413
+
+event:    2414
+
+event:    2415
+
+event:    2416
+
+event:    2417
+
+event:    2418
+
+event:    2419
+
+event:    2420
+
+event:    2421
+
+event:    2422
+
+event:    2423
+
+event:    2424
+
+event:    2425
+
+event:    2426
+
+event:    2427
+
+event:    2428
+
+event:    2429
+
+event:    2430
+
+event:    2431
+
+event:    2432
+    st:1    ch:3    ph:3553    th:53    phzvl:3
+
+event:    2433
+
+event:    2434
+
+event:    2435
+
+event:    2436
+
+event:    2437
+
+event:    2438
+
+event:    2439
+
+event:    2440
+
+event:    2441
+
+event:    2442
+
+event:    2443
+
+event:    2444
+
+event:    2445
+
+event:    2446
+
+event:    2447
+
+event:    2448
+
+event:    2449
+
+event:    2450
+
+event:    2451
+
+event:    2452
+
+event:    2453
+
+event:    2454
+
+event:    2455
+
+event:    2456
+
+event:    2457
+
+event:    2458
+    st:0    ch:0    ph:1935    th:47    phzvl:2
+    st:0    ch:3    ph:1816    th:50    phzvl:2
+    st:3    ch:3    ph:1820    th:50    phzvl:3
+    st:4    ch:3    ph:1819    th:50    phzvl:3
+
+event:    2459
+
+event:    2460
+
+event:    2461
+
+event:    2462
+
+event:    2463
+
+event:    2464
+
+event:    2465
+
+event:    2466
+
+event:    2467
+
+event:    2468
+
+event:    2469
+
+event:    2470
+
+event:    2471
+
+event:    2472
+
+event:    2473
+
+event:    2474
+
+event:    2475
+
+event:    2476
+
+event:    2477
+
+event:    2478
+
+event:    2479
+
+event:    2480
+
+event:    2481
+
+event:    2482
+
+event:    2483
+
+event:    2484
+    st:0    ch:0    ph:1862    th:25    phzvl:6
+    st:0    ch:0    ph:1862    th:25    phzvl:6
+    st:3    ch:0    ph:1812    th:24    phzvl:6
+
+event:    2485
+
+event:    2486
+
+event:    2487
+
+event:    2488
+
+event:    2489
+
+event:    2490
+
+event:    2491
+
+event:    2492
+
+event:    2493
+
+event:    2494
+
+event:    2495
+
+event:    2496
+
+event:    2497
+
+event:    2498
+
+event:    2499
+
+event:    2500
+
+event:    2501
+
+event:    2502
+
+event:    2503
+
+event:    2504
+
+event:    2505
+
+event:    2506
+
+event:    2507
+
+event:    2508
+
+event:    2509
+
+event:    2510
+    st:0    ch:4    ph:2114    th:64    phzvl:1
+    st:2    ch:4    ph:2200    th:59    phzvl:1
+    st:3    ch:4    ph:2033    th:59    phzvl:1
+
+event:    2511
+
+event:    2512
+
+event:    2513
+
+event:    2514
+
+event:    2515
+
+event:    2516
+
+event:    2517
+
+event:    2518
+
+event:    2519
+
+event:    2520
+
+event:    2521
+
+event:    2522
+
+event:    2523
+
+event:    2524
+
+event:    2525
+
+event:    2526
+
+event:    2527
+
+event:    2528
+
+event:    2529
+
+event:    2530
+
+event:    2531
+
+event:    2532
+
+event:    2533
+
+event:    2534
+
+event:    2535
+
+event:    2536
+    st:1    ch:0    ph:3618    th:48    phzvl:2
+    st:2    ch:2    ph:4108    th:44    phzvl:2
+    st:4    ch:7    ph:3949    th:40    phzvl:2
+
+event:    2537
+
+event:    2538
+
+event:    2539
+
+event:    2540
+
+event:    2541
+
+event:    2542
+
+event:    2543
+
+event:    2544
+
+event:    2545
+
+event:    2546
+
+event:    2547
+
+event:    2548
+
+event:    2549
+
+event:    2550
+
+event:    2551
+
+event:    2552
+
+event:    2553
+
+event:    2554
+
+event:    2555
+
+event:    2556
+
+event:    2557
+
+event:    2558
+
+event:    2559
+
+event:    2560
+
+event:    2561
+
+event:    2562
+    st:5    ch:3    ph:508    th:42    phzvl:2
+
+event:    2563
+
+event:    2564
+
+event:    2565
+
+event:    2566
+
+event:    2567
+
+event:    2568
+
+event:    2569
+
+event:    2570
+
+event:    2571
+
+event:    2572
+
+event:    2573
+
+event:    2574
+
+event:    2575
+
+event:    2576
+
+event:    2577
+
+event:    2578
+
+event:    2579
+
+event:    2580
+
+event:    2581
+
+event:    2582
+
+event:    2583
+
+event:    2584
+
+event:    2585
+
+event:    2586
+
+event:    2587
+
+event:    2588
+    st:1    ch:3    ph:3500    th:83    phzvl:1
+    st:2    ch:6    ph:3464    th:82    phzvl:1
+    st:3    ch:6    ph:3460    th:81    phzvl:1
+    st:4    ch:6    ph:3460    th:80    phzvl:1
+
+event:    2589
+
+event:    2590
+
+event:    2591
+
+event:    2592
+
+event:    2593
+
+event:    2594
+
+event:    2595
+
+event:    2596
+
+event:    2597
+
+event:    2598
+
+event:    2599
+
+event:    2600
+
+event:    2601
+
+event:    2602
+
+event:    2603
+
+event:    2604
+
+event:    2605
+
+event:    2606
+
+event:    2607
+
+event:    2608
+
+event:    2609
+
+event:    2610
+
+event:    2611
+
+event:    2612
+
+event:    2613
+
+event:    2614
+    st:1    ch:2    ph:4537    th:10    phzvl:4
+    st:2    ch:2    ph:4340    th:9    phzvl:4
+    st:3    ch:2    ph:4278    th:8    phzvl:4
+    st:4    ch:2    ph:4254    th:8    phzvl:4
+
+event:    2615
+
+event:    2616
+
+event:    2617
+
+event:    2618
+
+event:    2619
+
+event:    2620
+
+event:    2621
+
+event:    2622
+
+event:    2623
+
+event:    2624
+
+event:    2625
+
+event:    2626
+
+event:    2627
+
+event:    2628
+
+event:    2629
+
+event:    2630
+
+event:    2631
+
+event:    2632
+
+event:    2633
+
+event:    2634
+
+event:    2635
+
+event:    2636
+
+event:    2637
+
+event:    2638
+
+event:    2639
+
+event:    2640
+    st:5    ch:0    ph:938    th:10    phzvl:4
+    st:5    ch:3    ph:740    th:8    phzvl:4
+    st:5    ch:5    ph:678    th:9    phzvl:4
+    st:5    ch:7    ph:654    th:9    phzvl:4
+
+event:    2641
+
+event:    2642
+
+event:    2643
+
+event:    2644
+
+event:    2645
+
+event:    2646
+
+event:    2647
+
+event:    2648
+
+event:    2649
+
+event:    2650
+
+event:    2651
+
+event:    2652
+
+event:    2653
+
+event:    2654
+
+event:    2655
+
+event:    2656
+
+event:    2657
+
+event:    2658
+
+event:    2659
+
+event:    2660
+
+event:    2661
+
+event:    2662
+
+event:    2663
+
+event:    2664
+
+event:    2665
+
+event:    2666
+    st:0    ch:5    ph:2844    th:72    phzvl:1
+    st:2    ch:5    ph:2808    th:72    phzvl:1
+    st:3    ch:5    ph:2804    th:72    phzvl:1
+    st:4    ch:5    ph:2807    th:72    phzvl:1
+
+event:    2667
+
+event:    2668
+
+event:    2669
+
+event:    2670
+
+event:    2671
+
+event:    2672
+
+event:    2673
+
+event:    2674
+
+event:    2675
+
+event:    2676
+
+event:    2677
+
+event:    2678
+
+event:    2679
+
+event:    2680
+
+event:    2681
+
+event:    2682
+
+event:    2683
+
+event:    2684
+
+event:    2685
+
+event:    2686
+
+event:    2687
+
+event:    2688
+
+event:    2689
+
+event:    2690
+
+event:    2691
+
+event:    2692
+    st:0    ch:1    ph:2078    th:50    phzvl:2
+    st:0    ch:4    ph:2072    th:50    phzvl:2
+    st:3    ch:4    ph:2068    th:50    phzvl:3
+    st:4    ch:4    ph:2068    th:49    phzvl:2
+
+event:    2693
+
+event:    2694
+
+event:    2695
+
+event:    2696
+
+event:    2697
+
+event:    2698
+
+event:    2699
+
+event:    2700
+
+event:    2701
+
+event:    2702
+
+event:    2703
+
+event:    2704
+
+event:    2705
+
+event:    2706
+
+event:    2707
+
+event:    2708
+
+event:    2709
+
+event:    2710
+
+event:    2711
+
+event:    2712
+
+event:    2713
+
+event:    2714
+
+event:    2715
+
+event:    2716
+
+event:    2717
+
+event:    2718
+    st:0    ch:1    ph:2439    th:33    phzvl:2
+    st:2    ch:0    ph:2250    th:33    phzvl:2
+    st:3    ch:0    ph:2234    th:31    phzvl:2
+    st:3    ch:0    ph:2234    th:29    phzvl:2
+    st:4    ch:0    ph:2244    th:29    phzvl:2
+
+event:    2719
+
+event:    2720
+
+event:    2721
+
+event:    2722
+
+event:    2723
+
+event:    2724
+
+event:    2725
+
+event:    2726
+
+event:    2727
+
+event:    2728
+
+event:    2729
+
+event:    2730
+
+event:    2731
+
+event:    2732
+
+event:    2733
+
+event:    2734
+
+event:    2735
+
+event:    2736
+
+event:    2737
+
+event:    2738
+
+event:    2739
+
+event:    2740
+
+event:    2741
+
+event:    2742
+
+event:    2743
+
+event:    2744
+    st:0    ch:3    ph:1552    th:78    phzvl:1
+    st:2    ch:3    ph:1580    th:78    phzvl:1
+    st:3    ch:3    ph:1579    th:78    phzvl:1
+    st:4    ch:3    ph:1580    th:78    phzvl:1
+
+event:    2745
+
+event:    2746
+
+event:    2747
+
+event:    2748
+
+event:    2749
+
+event:    2750
+
+event:    2751
+
+event:    2752
+
+event:    2753
+
+event:    2754
+
+event:    2755
+
+event:    2756
+
+event:    2757
+
+event:    2758
+
+event:    2759
+
+event:    2760
+
+event:    2761
+
+event:    2762
+
+event:    2763
+
+event:    2764
+
+event:    2765
+
+event:    2766
+
+event:    2767
+
+event:    2768
+
+event:    2769
+
+event:    2770
+    st:0    ch:4    ph:1999    th:76    phzvl:1
+    st:2    ch:3    ph:1948    th:75    phzvl:1
+    st:2    ch:4    ph:1952    th:75    phzvl:1
+    st:3    ch:3    ph:1943    th:75    phzvl:1
+    st:3    ch:4    ph:1943    th:74    phzvl:1
+    st:4    ch:3    ph:1944    th:75    phzvl:1
+    st:4    ch:4    ph:1944    th:74    phzvl:1
+
+event:    2771
+
+event:    2772
+
+event:    2773
+
+event:    2774
+
+event:    2775
+
+event:    2776
+
+event:    2777
+
+event:    2778
+
+event:    2779
+
+event:    2780
+
+event:    2781
+
+event:    2782
+
+event:    2783
+
+event:    2784
+
+event:    2785
+
+event:    2786
+
+event:    2787
+
+event:    2788
+
+event:    2789
+
+event:    2790
+
+event:    2791
+
+event:    2792
+
+event:    2793
+
+event:    2794
+
+event:    2795
+
+event:    2796
+    st:1    ch:2    ph:4882    th:34    phzvl:2
+    st:1    ch:2    ph:4882    th:34    phzvl:2
+    st:2    ch:2    ph:4668    th:32    phzvl:2
+    st:3    ch:2    ph:4700    th:33    phzvl:2
+    st:4    ch:2    ph:4740    th:33    phzvl:2
+
+event:    2797
+
+event:    2798
+
+event:    2799
+
+event:    2800
+
+event:    2801
+
+event:    2802
+
+event:    2803
+
+event:    2804
+
+event:    2805
+
+event:    2806
+
+event:    2807
+
+event:    2808
+
+event:    2809
+
+event:    2810
+
+event:    2811
+
+event:    2812
+
+event:    2813
+
+event:    2814
+
+event:    2815
+
+event:    2816
+
+event:    2817
+
+event:    2818
+
+event:    2819
+
+event:    2820
+
+event:    2821
+
+event:    2822
+    st:5    ch:0    ph:1283    th:34    phzvl:2
+    st:5    ch:0    ph:1283    th:34    phzvl:2
+    st:5    ch:3    ph:1068    th:31    phzvl:2
+    st:5    ch:5    ph:1100    th:34    phzvl:2
+    st:5    ch:7    ph:1140    th:35    phzvl:2
+
+event:    2823
+
+event:    2824
+
+event:    2825
+
+event:    2826
+
+event:    2827
+
+event:    2828
+
+event:    2829
+
+event:    2830
+
+event:    2831
+
+event:    2832
+
+event:    2833
+
+event:    2834
+
+event:    2835
+
+event:    2836
+
+event:    2837
+
+event:    2838
+
+event:    2839
+
+event:    2840
+
+event:    2841
+
+event:    2842
+
+event:    2843
+
+event:    2844
+
+event:    2845
+
+event:    2846
+
+event:    2847
+
+event:    2848
+    st:0    ch:5    ph:2870    th:61    phzvl:1
+    st:2    ch:5    ph:2792    th:60    phzvl:1
+    st:3    ch:5    ph:2832    th:60    phzvl:1
+    st:4    ch:5    ph:2891    th:60    phzvl:1
+
+event:    2849
+
+event:    2850
+
+event:    2851
+
+event:    2852
+
+event:    2853
+
+event:    2854
+
+event:    2855
+
+event:    2856
+
+event:    2857
+
+event:    2858
+
+event:    2859
+
+event:    2860
+
+event:    2861
+
+event:    2862
+
+event:    2863
+
+event:    2864
+
+event:    2865
+
+event:    2866
+
+event:    2867
+
+event:    2868
+
+event:    2869
+
+event:    2870
+
+event:    2871
+
+event:    2872
+
+event:    2873
+
+event:    2874
+    st:0    ch:4    ph:1989    th:74    phzvl:1
+    st:2    ch:4    ph:2096    th:73    phzvl:1
+    st:3    ch:4    ph:2124    th:71    phzvl:1
+    st:4    ch:4    ph:2124    th:71    phzvl:1
+
+event:    2875
+
+event:    2876
+
+event:    2877
+
+event:    2878
+
+event:    2879
+
+event:    2880
+
+event:    2881
+
+event:    2882
+
+event:    2883
+
+event:    2884
+
+event:    2885
+
+event:    2886
+
+event:    2887
+
+event:    2888
+
+event:    2889
+
+event:    2890
+
+event:    2891
+
+event:    2892
+
+event:    2893
+
+event:    2894
+
+event:    2895
+
+event:    2896
+
+event:    2897
+
+event:    2898
+
+event:    2899
+
+event:    2900
+    st:0    ch:2    ph:2810    th:29    phzvl:2
+    st:2    ch:0    ph:2540    th:29    phzvl:2
+    st:2    ch:1    ph:2548    th:26    phzvl:2
+    st:3    ch:0    ph:2556    th:25    phzvl:6
+    st:4    ch:1    ph:2644    th:28    phzvl:2
+
+event:    2901
+
+event:    2902
+
+event:    2903
+
+event:    2904
+
+event:    2905
+
+event:    2906
+
+event:    2907
+
+event:    2908
+
+event:    2909
+
+event:    2910
+
+event:    2911
+
+event:    2912
+
+event:    2913
+
+event:    2914
+
+event:    2915
+
+event:    2916
+
+event:    2917
+
+event:    2918
+
+event:    2919
+
+event:    2920
+
+event:    2921
+
+event:    2922
+
+event:    2923
+
+event:    2924
+
+event:    2925
+
+event:    2926
+    st:0    ch:2    ph:2746    th:46    phzvl:2
+    st:0    ch:2    ph:2746    th:46    phzvl:2
+    st:0    ch:5    ph:2881    th:46    phzvl:2
+    st:2    ch:1    ph:2966    th:45    phzvl:2
+    st:3    ch:5    ph:2992    th:47    phzvl:2
+    st:4    ch:5    ph:2999    th:46    phzvl:2
+
+event:    2927
+
+event:    2928
+
+event:    2929
+
+event:    2930
+
+event:    2931
+
+event:    2932
+
+event:    2933
+
+event:    2934
+
+event:    2935
+
+event:    2936
+
+event:    2937
+
+event:    2938
+
+event:    2939
+
+event:    2940
+
+event:    2941
+
+event:    2942
+
+event:    2943
+
+event:    2944
+
+event:    2945
+
+event:    2946
+
+event:    2947
+
+event:    2948
+
+event:    2949
+
+event:    2950
+
+event:    2951
+
+event:    2952
+    st:0    ch:2    ph:2867    th:20    phzvl:4
+    st:0    ch:2    ph:2867    th:20    phzvl:4
+    st:2    ch:1    ph:3036    th:20    phzvl:4
+    st:3    ch:1    ph:3061    th:20    phzvl:4
+
+event:    2953
+
+event:    2954
+
+event:    2955
+
+event:    2956
+
+event:    2957
+
+event:    2958
+
+event:    2959
+
+event:    2960
+
+event:    2961
+
+event:    2962
+
+event:    2963
+
+event:    2964
+
+event:    2965
+
+event:    2966
+
+event:    2967
+
+event:    2968
+
+event:    2969
+
+event:    2970
+
+event:    2971
+
+event:    2972
+
+event:    2973
+
+event:    2974
+
+event:    2975
+
+event:    2976
+
+event:    2977
+
+event:    2978
+    st:2    ch:1    ph:3316    th:44    phzvl:2
+
+event:    2979
+
+event:    2980
+
+event:    2981
+
+event:    2982
+
+event:    2983
+
+event:    2984
+
+event:    2985
+
+event:    2986
+
+event:    2987
+
+event:    2988
+
+event:    2989
+
+event:    2990
+
+event:    2991
+
+event:    2992
+
+event:    2993
+
+event:    2994
+
+event:    2995
+
+event:    2996
+
+event:    2997
+
+event:    2998
+
+event:    2999
+
+event:    3000
+
+event:    3001
+
+event:    3002
+
+event:    3003
+
+event:    3004
+    st:1    ch:2    ph:4709    th:48    phzvl:2
+    st:1    ch:2    ph:4709    th:48    phzvl:2
+    st:2    ch:2    ph:4420    th:48    phzvl:2
+    st:3    ch:8    ph:4456    th:45    phzvl:2
+    st:4    ch:8    ph:4507    th:45    phzvl:2
+
+event:    3005
+
+event:    3006
+
+event:    3007
+
+event:    3008
+
+event:    3009
+
+event:    3010
+
+event:    3011
+
+event:    3012
+
+event:    3013
+
+event:    3014
+
+event:    3015
+
+event:    3016
+
+event:    3017
+
+event:    3018
+
+event:    3019
+
+event:    3020
+
+event:    3021
+
+event:    3022
+
+event:    3023
+
+event:    3024
+
+event:    3025
+
+event:    3026
+
+event:    3027
+
+event:    3028
+
+event:    3029
+
+event:    3030
+    st:5    ch:0    ph:1110    th:48    phzvl:2
+    st:5    ch:0    ph:1110    th:48    phzvl:2
+    st:5    ch:3    ph:820    th:46    phzvl:2
+    st:5    ch:6    ph:856    th:45    phzvl:2
+    st:5    ch:8    ph:907    th:45    phzvl:2
+
+event:    3031
+
+event:    3032
+
+event:    3033
+
+event:    3034
+
+event:    3035
+
+event:    3036
+
+event:    3037
+
+event:    3038
+
+event:    3039
+
+event:    3040
+
+event:    3041
+
+event:    3042
+
+event:    3043
+
+event:    3044
+
+event:    3045
+
+event:    3046
+
+event:    3047
+
+event:    3048
+
+event:    3049
+
+event:    3050
+
+event:    3051
+
+event:    3052
+
+event:    3053
+
+event:    3054
+
+event:    3055
+
+event:    3056
+    st:1    ch:4    ph:3908    th:81    phzvl:1
+    st:2    ch:7    ph:3908    th:81    phzvl:1
+    st:3    ch:7    ph:3908    th:80    phzvl:1
+    st:4    ch:7    ph:3907    th:81    phzvl:1
+
+event:    3057
+
+event:    3058
+
+event:    3059
+
+event:    3060
+
+event:    3061
+
+event:    3062
+
+event:    3063
+
+event:    3064
+
+event:    3065
+
+event:    3066
+
+event:    3067
+
+event:    3068
+
+event:    3069
+
+event:    3070
+
+event:    3071
+
+event:    3072
+
+event:    3073
+
+event:    3074
+
+event:    3075
+
+event:    3076
+
+event:    3077
+
+event:    3078
+
+event:    3079
+
+event:    3080
+
+event:    3081
+
+event:    3082
+
+event:    3083
+
+event:    3084
+
+event:    3085
+
+event:    3086
+
+event:    3087
+
+event:    3088
+
+event:    3089
+
+event:    3090
+
+event:    3091
+
+event:    3092
+
+event:    3093
+
+event:    3094
+
+event:    3095
+
+event:    3096
+
+event:    3097
+
+event:    3098
+
+event:    3099
+
+event:    3100
+
+event:    3101
+
+event:    3102
+
+event:    3103
+
+event:    3104
+
+event:    3105
+
+event:    3106
+
+event:    3107
+
+event:    3108
+
+event:    3109
+
+event:    3110
+
+event:    3111
+
+event:    3112
+
+event:    3113
+
+event:    3114
+
+event:    3115
+
+event:    3116
+
+event:    3117
+
+event:    3118
+
+event:    3119
+
+event:    3120
+
+event:    3121
+
+event:    3122
+
+event:    3123
+
+event:    3124
+
+event:    3125
+
+event:    3126
+
+event:    3127
+
+event:    3128
+
+event:    3129
+
+event:    3130
+
+event:    3131
+
+event:    3132
+
+event:    3133
+
+event:    3134
+
+event:    3135
+
+event:    3136
+
+event:    3137
+
+event:    3138
+
+event:    3139
+
+event:    3140
+
+event:    3141
+
+event:    3142
+
+event:    3143
+
+event:    3144
+
+event:    3145
+
+event:    3146
+
+event:    3147
+
+event:    3148
+
+event:    3149
+
+event:    3150
+
+event:    3151
+
+event:    3152
+
+event:    3153
+
+event:    3154
+
+event:    3155
+
+event:    3156
+
+event:    3157
+
+event:    3158
+
+event:    3159
+
+event:    3160
+
+event:    3161
+
+event:    3162
+
+event:    3163
+
+event:    3164
+
+event:    3165
+
+event:    3166
+
+event:    3167
+
+event:    3168
+
+event:    3169
+
+event:    3170
+
+event:    3171
+
+event:    3172
+
+event:    3173
+
+event:    3174
+
+event:    3175
+
+event:    3176
+
+event:    3177
+
+event:    3178
+
+event:    3179
+
+event:    3180
+
+event:    3181
+
+event:    3182
+
+event:    3183
+
+event:    3184
+
+event:    3185
+
+event:    3186
+
+event:    3187
+
+event:    3188
+
+event:    3189
+
+event:    3190
+
+event:    3191
+
+event:    3192
+
+event:    3193
+
+event:    3194
+
+event:    3195
+
+event:    3196
+
+event:    3197
+
+event:    3198
+
+event:    3199
+
+event:    3200
+
+event:    3201
+
+event:    3202
+
+event:    3203
+
+event:    3204
+
+event:    3205
+
+event:    3206
+
+event:    3207
+
+event:    3208
+
+event:    3209
+
+event:    3210
+
+event:    3211
+
+event:    3212
+
+event:    3213
+
+event:    3214
+
+event:    3215
+
+event:    3216
+
+event:    3217
+
+event:    3218
+
+event:    3219
+
+event:    3220
+
+event:    3221
+
+event:    3222
+
+event:    3223
+
+event:    3224
+
+event:    3225
+
+event:    3226
+
+event:    3227
+
+event:    3228
+
+event:    3229
+
+event:    3230
+
+event:    3231
+
+event:    3232
+
+event:    3233
+
+event:    3234
+
+event:    3235
+
+event:    3236
+
+event:    3237
+
+event:    3238
+
+event:    3239
+
+event:    3240
+
+event:    3241
+
+event:    3242
+
+event:    3243
+
+event:    3244
+
+event:    3245
+
+event:    3246
+
+event:    3247
+
+event:    3248
+
+event:    3249
+
+event:    3250
+
+event:    3251
+
+event:    3252
+
+event:    3253
+
+event:    3254
+
+event:    3255
+
+event:    3256
+
+event:    3257
+
+event:    3258
+
+event:    3259
+
+event:    3260
+
+event:    3261
+
+event:    3262
+
+event:    3263
+
+event:    3264
+
+event:    3265
+
+event:    3266
+
+event:    3267
+
+event:    3268
+
+event:    3269
+
+event:    3270
+
+event:    3271
+
+event:    3272
+
+event:    3273
+
+event:    3274
+
+event:    3275
+
+event:    3276
+
+event:    3277
+
+event:    3278
+
+event:    3279
+
+event:    3280
+
+event:    3281
+
+event:    3282
+
+event:    3283
+
+event:    3284
+
+event:    3285
+
+event:    3286
+
+event:    3287
+
+event:    3288
+
+event:    3289
+
+event:    3290
+
+event:    3291
+
+event:    3292
+
+event:    3293
+
+event:    3294
+
+event:    3295
+
+event:    3296
+
+event:    3297
+
+event:    3298
+
+event:    3299
+
+event:    3300
+
+event:    3301
+
+event:    3302
+
+event:    3303
+
+event:    3304
+
+event:    3305
+
+event:    3306
+
+event:    3307
+
+event:    3308
+
+event:    3309
+
+event:    3310
+
+event:    3311
+
+event:    3312
+
+event:    3313
+
+event:    3314
+
+event:    3315
+
+event:    3316
+
+event:    3317
+
+event:    3318
+
+event:    3319
+
+event:    3320
+
+event:    3321
+
+event:    3322
+
+event:    3323
+
+event:    3324
+
+event:    3325
+
+event:    3326
+
+event:    3327
+
+event:    3328
+
+event:    3329
+
+event:    3330
+
+event:    3331
+
+event:    3332
+
+event:    3333
+
+event:    3334
+
+event:    3335
+
+event:    3336
+
+event:    3337
+
+event:    3338
+
+event:    3339
+
+event:    3340
+
+event:    3341
+
+event:    3342
+
+event:    3343
+
+event:    3344
+
+event:    3345
+
+event:    3346
+
+event:    3347
+
+event:    3348
+
+event:    3349
+
+event:    3350
+
+event:    3351
+
+event:    3352
+
+event:    3353
+
+event:    3354
+
+event:    3355
+
+event:    3356
+
+event:    3357
+
+event:    3358
+
+event:    3359
+
+event:    3360
+
+event:    3361
+
+event:    3362
+
+event:    3363
+
+event:    3364
+
+event:    3365
+
+event:    3366
+
+event:    3367
+
+event:    3368
+
+event:    3369
+
+event:    3370
+
+event:    3371
+
+event:    3372
+
+event:    3373
+
+event:    3374
+
+event:    3375
+
+event:    3376
+
+event:    3377
+
+event:    3378
+
+event:    3379
+
+event:    3380
+
+event:    3381
+
+event:    3382
+
+event:    3383
+
+event:    3384
+
+event:    3385
+
+event:    3386
+
+event:    3387
+
+event:    3388
+
+event:    3389
+
+event:    3390
+
+event:    3391
+
+event:    3392
+
+event:    3393
+
+event:    3394
+
+event:    3395
+
+event:    3396
+
+event:    3397
+
+event:    3398
+
+event:    3399
+
+event:    3400
+
+event:    3401
+
+event:    3402
+
+event:    3403
+
+event:    3404
+
+event:    3405
+
+event:    3406
+
+event:    3407
+
+event:    3408
+
+event:    3409
+
+event:    3410
+
+event:    3411
+
+event:    3412
+
+event:    3413
+
+event:    3414
+
+event:    3415
+
+event:    3416
+
+event:    3417
+
+event:    3418
+
+event:    3419
+
+event:    3420
+
+event:    3421
+
+event:    3422
+
+event:    3423
+
+event:    3424
+
+event:    3425
+
+event:    3426
+
+event:    3427
+
+event:    3428
+
+event:    3429
+
+event:    3430
+
+event:    3431
+
+event:    3432
+
+event:    3433
+
+event:    3434
+
+event:    3435
+
+event:    3436
+
+event:    3437
+
+event:    3438
+
+event:    3439
+
+event:    3440
+
+event:    3441
+
+event:    3442
+
+event:    3443
+
+event:    3444
+
+event:    3445
+
+event:    3446
+
+event:    3447
+
+event:    3448
+
+event:    3449
+
+event:    3450
+
+event:    3451
+
+event:    3452
+
+event:    3453
+
+event:    3454
+
+event:    3455
+
+event:    3456
+
+event:    3457
+
+event:    3458
+
+event:    3459
+
+event:    3460
+
+event:    3461
+
+event:    3462
+
+event:    3463
+
+event:    3464
+
+event:    3465
+
+event:    3466
+
+event:    3467
+
+event:    3468
+
+event:    3469
+
+event:    3470
+
+event:    3471
+
+event:    3472
+
+event:    3473
+
+event:    3474
+
+event:    3475
+
+event:    3476
+
+event:    3477
+
+event:    3478
+
+event:    3479
+
+event:    3480
+
+event:    3481
+
+event:    3482
+
+event:    3483
+
+event:    3484
+
+event:    3485
+
+event:    3486
+
+event:    3487
+
+event:    3488
+
+event:    3489
+
+event:    3490
+
+event:    3491
+
+event:    3492
+
+event:    3493
+
+event:    3494
+
+event:    3495
+
+event:    3496
+
+event:    3497
+
+event:    3498
+
+event:    3499
+
+event:    3500
+
+event:    3501
+
+event:    3502
+
+event:    3503
+
+event:    3504
+
+event:    3505
+
+event:    3506
+
+event:    3507
+
+event:    3508
+
+event:    3509
+
+event:    3510
+
+event:    3511
+
+event:    3512
+
+event:    3513
+
+event:    3514
+
+event:    3515
+
+event:    3516
+
+event:    3517
+
+event:    3518
+
+event:    3519
+
+event:    3520
+
+event:    3521
+
+event:    3522
+
+event:    3523
+
+event:    3524
+
+event:    3525
+
+event:    3526
+
+event:    3527
+
+event:    3528
+
+event:    3529
+
+event:    3530
+
+event:    3531
+
+event:    3532
+
+event:    3533
+
+event:    3534
+
+event:    3535
+
+event:    3536
+
+event:    3537
+
+event:    3538
+
+event:    3539
+
+event:    3540
+
+event:    3541
+
+event:    3542
+
+event:    3543
+
+event:    3544
+
+event:    3545
+
+event:    3546
+
+event:    3547
+
+event:    3548
+
+event:    3549
+
+event:    3550
+
+event:    3551
+
+event:    3552
+
+event:    3553
+
+event:    3554
+
+event:    3555
+
+event:    3556
+
+event:    3557
+
+event:    3558
+
+event:    3559
+
+event:    3560
+
+event:    3561
+
+event:    3562
+
+event:    3563
+
+event:    3564
+
+event:    3565
+
+event:    3566
+
+event:    3567
+
+event:    3568
+
+event:    3569
+
+event:    3570
+
+event:    3571
+
+event:    3572
+
+event:    3573
+
+event:    3574
+
+event:    3575
+
+event:    3576
+
+event:    3577
+
+event:    3578
+
+event:    3579
+
+event:    3580
+
+event:    3581
+
+event:    3582
+
+event:    3583
+
+event:    3584
+
+event:    3585
+
+event:    3586
+
+event:    3587
+
+event:    3588
+
+event:    3589
+
+event:    3590
+
+event:    3591
+
+event:    3592
+
+event:    3593
+
+event:    3594
+
+event:    3595
+
+event:    3596
+
+event:    3597
+
+event:    3598
+
+event:    3599
+
+event:    3600
+
+event:    3601
+
+event:    3602
+
+event:    3603
+
+event:    3604
+
+event:    3605
+
+event:    3606
+
+event:    3607
+
+event:    3608
+
+event:    3609
+
+event:    3610
+
+event:    3611
+
+event:    3612
+
+event:    3613
+
+event:    3614
+
+event:    3615
+
+event:    3616
+
+event:    3617
+
+event:    3618
+
+event:    3619
+
+event:    3620
+
+event:    3621
+
+event:    3622
+
+event:    3623
+
+event:    3624
+
+event:    3625
+
+event:    3626
+
+event:    3627
+
+event:    3628
+
+event:    3629
+
+event:    3630
+
+event:    3631
+
+event:    3632
+
+event:    3633
+
+event:    3634
+
+event:    3635
+
+event:    3636
+
+event:    3637
+
+event:    3638
+
+event:    3639
+
+event:    3640
+
+event:    3641
+
+event:    3642
+
+event:    3643
+
+event:    3644
+
+event:    3645
+
+event:    3646
+
+event:    3647
+
+event:    3648
+
+event:    3649
+
+event:    3650
+
+event:    3651
+
+event:    3652
+
+event:    3653
+
+event:    3654
+
+event:    3655
+
+event:    3656
+
+event:    3657
+
+event:    3658
+
+event:    3659
+
+event:    3660
+
+event:    3661
+
+event:    3662
+
+event:    3663
+
+event:    3664
+
+event:    3665
+
+event:    3666
+
+event:    3667
+
+event:    3668
+
+event:    3669
+
+event:    3670
+
+event:    3671
+
+event:    3672
+
+event:    3673
+
+event:    3674
+
+event:    3675
+
+event:    3676
+
+event:    3677
+
+event:    3678
+
+event:    3679
+
+event:    3680
+
+event:    3681
+
+event:    3682
+
+event:    3683
+
+event:    3684
+
+event:    3685
+
+event:    3686
+
+event:    3687
+
+event:    3688
+
+event:    3689
+
+event:    3690
+
+event:    3691
+
+event:    3692
+
+event:    3693
+
+event:    3694
+
+event:    3695
+
+event:    3696
+
+event:    3697
+
+event:    3698
+
+event:    3699
+
+event:    3700
+
+event:    3701
+
+event:    3702
+
+event:    3703
+
+event:    3704
+
+event:    3705
+
+event:    3706
+
+event:    3707
+
+event:    3708
+
+event:    3709
+
+event:    3710
+
+event:    3711
+
+event:    3712
+
+event:    3713
+
+event:    3714
+
+event:    3715
+
+event:    3716
+
+event:    3717
+
+event:    3718
+
+event:    3719
+
+event:    3720
+
+event:    3721
+
+event:    3722
+
+event:    3723
+
+event:    3724
+
+event:    3725
+
+event:    3726
+
+event:    3727
+
+event:    3728
+
+event:    3729
+
+event:    3730
+
+event:    3731
+
+event:    3732
+
+event:    3733
+
+event:    3734
+
+event:    3735
+
+event:    3736
+
+event:    3737
+
+event:    3738
+
+event:    3739
+
+event:    3740
+
+event:    3741
+
+event:    3742
+
+event:    3743
+
+event:    3744
+
+event:    3745
+
+event:    3746
+
+event:    3747
+
+event:    3748
+
+event:    3749
+
+event:    3750
+
+event:    3751
+
+event:    3752
+
+event:    3753
+
+event:    3754
+
+event:    3755
+
+event:    3756
+
+event:    3757
+
+event:    3758
+
+event:    3759
+
+event:    3760
+
+event:    3761
+
+event:    3762
+
+event:    3763
+
+event:    3764
+
+event:    3765
+
+event:    3766
+
+event:    3767
+
+event:    3768
+
+event:    3769
+
+event:    3770
+
+event:    3771
+
+event:    3772
+
+event:    3773
+
+event:    3774
+
+event:    3775
+
+event:    3776
+
+event:    3777
+
+event:    3778
+
+event:    3779
+
+event:    3780
+
+event:    3781
+
+event:    3782
+
+event:    3783
+
+event:    3784
+
+event:    3785
+
+event:    3786
+
+event:    3787
+
+event:    3788
+
+event:    3789
+
+event:    3790
+
+event:    3791
+
+event:    3792
+
+event:    3793
+
+event:    3794
+
+event:    3795
+
+event:    3796
+
+event:    3797
+
+event:    3798
+
+event:    3799
+
+event:    3800
+
+event:    3801
+
+event:    3802
+
+event:    3803
+
+event:    3804
+
+event:    3805
+
+event:    3806
+
+event:    3807
+
+event:    3808
+
+event:    3809
+
+event:    3810
+
+event:    3811
+
+event:    3812
+
+event:    3813
+
+event:    3814
+
+event:    3815
+
+event:    3816
+
+event:    3817
+
+event:    3818
+
+event:    3819
+
+event:    3820
+
+event:    3821
+
+event:    3822
+
+event:    3823
+
+event:    3824
+
+event:    3825
+
+event:    3826
+
+event:    3827
+
+event:    3828
+
+event:    3829
+
+event:    3830
+
+event:    3831
+
+event:    3832
+
+event:    3833
+
+event:    3834
+
+event:    3835
+
+event:    3836
+
+event:    3837
+
+event:    3838
+
+event:    3839
+
+event:    3840
+
+event:    3841
+
+event:    3842
+
+event:    3843
+
+event:    3844
+
+event:    3845
+
+event:    3846
+
+event:    3847
+
+event:    3848
+
+event:    3849
+
+event:    3850
+
+event:    3851
+
+event:    3852
+
+event:    3853
+
+event:    3854
+
+event:    3855
+
+event:    3856
+
+event:    3857
+
+event:    3858
+
+event:    3859
+
+event:    3860
+
+event:    3861
+
+event:    3862
+
+event:    3863
+
+event:    3864
+
+event:    3865
+
+event:    3866
+
+event:    3867
+
+event:    3868
+
+event:    3869
+
+event:    3870
+
+event:    3871
+
+event:    3872
+
+event:    3873
+
+event:    3874
+
+event:    3875
+
+event:    3876
+
+event:    3877
+
+event:    3878
+
+event:    3879
+
+event:    3880
+
+event:    3881
+
+event:    3882
+
+event:    3883
+
+event:    3884
+
+event:    3885
+
+event:    3886
+
+event:    3887
+
+event:    3888
+
+event:    3889
+
+event:    3890
+
+event:    3891
+
+event:    3892
+
+event:    3893
+
+event:    3894
+
+event:    3895
+
+event:    3896
+
+event:    3897
+
+event:    3898
+
+event:    3899
+
+event:    3900
+
+event:    3901
+
+event:    3902
+
+event:    3903
+
+event:    3904
+
+event:    3905
+
+event:    3906
+
+event:    3907
+
+event:    3908
+
+event:    3909
+
+event:    3910
+
+event:    3911
+
+event:    3912
+
+event:    3913
+
+event:    3914
+
+event:    3915
+
+event:    3916
+
+event:    3917
+
+event:    3918
+
+event:    3919
+
+event:    3920
+
+event:    3921
+
+event:    3922
+
+event:    3923
+
+event:    3924
+
+event:    3925
+
+event:    3926
+
+event:    3927
+
+event:    3928
+
+event:    3929
+
+event:    3930
+
+event:    3931
+
+event:    3932
+
+event:    3933
+
+event:    3934
+
+event:    3935
+
+event:    3936
+
+event:    3937
+
+event:    3938
+
+event:    3939
+
+event:    3940
+
+event:    3941
+
+event:    3942
+
+event:    3943
+
+event:    3944
+
+event:    3945
+
+event:    3946
+
+event:    3947
+
+event:    3948
+
+event:    3949
+
+event:    3950
+
+event:    3951
+
+event:    3952
+
+event:    3953
+
+event:    3954
+
+event:    3955
+
+event:    3956
+
+event:    3957
+
+event:    3958
+
+event:    3959
+
+event:    3960
+
+event:    3961
+
+event:    3962
+
+event:    3963
+
+event:    3964
+
+event:    3965
+
+event:    3966
+
+event:    3967
+
+event:    3968
+
+event:    3969
+
+event:    3970
+
+event:    3971
+
+event:    3972
+
+event:    3973
+
+event:    3974
+
+event:    3975
+
+event:    3976
+
+event:    3977
+
+event:    3978
+
+event:    3979
+
+event:    3980
+
+event:    3981
+
+event:    3982
+
+event:    3983
+
+event:    3984
+
+event:    3985
+
+event:    3986
+
+event:    3987
+
+event:    3988
+
+event:    3989
+
+event:    3990
+
+event:    3991
+
+event:    3992
+
+event:    3993
+
+event:    3994
+
+event:    3995
+
+event:    3996
+
+event:    3997
+
+event:    3998
+
+event:    3999
+
+event:    4000

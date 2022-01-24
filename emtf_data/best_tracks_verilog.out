@@ -1,0 +1,748 @@
+
+
+ Number=           0,   event=          24
+bt_phi[0]= 00000ddc
+bt_theta[0]= 00000008
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000018
+pt_lut_addr[0]= 38416410
+gmt_eta[0]= 000000d9
+gmt_qlt[0]= b
+
+ Number=           1,   event=          33
+bt_phi[0]= 00000d54
+bt_theta[0]= 0000001e
+bt_sign_ph[0]= 00000030
+bt_sign_th[0]= 00000014
+pt_lut_addr[0]= 2cf06033
+gmt_eta[0]= 000000ae
+gmt_qlt[0]= d
+
+ Number=           2,   event=          42
+bt_phi[0]= 00000c59
+bt_theta[0]= 00000042
+bt_sign_ph[0]= 00000035
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 2e0efed9
+gmt_eta[0]= 00000082
+gmt_qlt[0]= d
+
+ Number=           3,   event=          52
+bt_phi[0]= 0000122c
+bt_theta[0]= 00000036
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000006
+pt_lut_addr[0]= 35b2a3d9
+gmt_eta[0]= 0000008e
+gmt_qlt[0]= f
+
+ Number=           4,   event=          62
+bt_phi[0]= 00000f0b
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c24389b
+gmt_eta[0]= 000000db
+gmt_qlt[0]= f
+
+ Number=           5,   event=          72
+bt_phi[0]= 000012fb
+bt_theta[0]= 0000001c
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000003
+pt_lut_addr[0]= 3cf438e2
+gmt_eta[0]= 000000b1
+gmt_qlt[0]= f
+
+ Number=           6,   event=          82
+bt_phi[0]= 00000e5c
+bt_theta[0]= 00000009
+bt_sign_ph[0]= 00000000
+bt_sign_th[0]= 0000001e
+pt_lut_addr[0]= 3c4d0d69
+gmt_eta[0]= 000000d6
+gmt_qlt[0]= f
+
+ Number=           7,   event=          93
+bt_phi[0]= 00000934
+bt_theta[0]= 0000003c
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 0df8080c
+gmt_eta[0]= 00000088
+gmt_qlt[0]= 8
+
+ Number=           8,   event=         104
+bt_phi[0]= 00000624
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 00000035
+bt_sign_th[0]= 00000005
+pt_lut_addr[0]= 2c2ab06b
+gmt_eta[0]= 000000db
+gmt_qlt[0]= d
+
+ Number=           9,   event=         114
+bt_phi[0]= 0000081e
+bt_theta[0]= 00000010
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c8c0be3
+gmt_eta[0]= 000000c7
+gmt_qlt[0]= f
+
+ Number=          10,   event=         124
+bt_phi[0]= 0000122b
+bt_theta[0]= 0000001f
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3cf49b67
+gmt_eta[0]= 000000ac
+gmt_qlt[0]= f
+
+ Number=          11,   event=         134
+bt_phi[0]= 00000a8c
+bt_theta[0]= 00000012
+bt_sign_ph[0]= 00000021
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 0c901203
+gmt_eta[0]= 000000c3
+gmt_qlt[0]= 8
+
+ Number=          12,   event=         144
+bt_phi[0]= 0000129b
+bt_theta[0]= 00000021
+bt_sign_ph[0]= 00000003
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 1d1b13ee
+gmt_eta[0]= 000000a9
+gmt_qlt[0]= e
+
+ Number=          13,   event=         154
+bt_phi[0]= 00000f13
+bt_theta[0]= 0000001b
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000007
+pt_lut_addr[0]= 3cc170f0
+gmt_eta[0]= 000000b3
+gmt_qlt[0]= f
+
+ Number=          14,   event=         164
+bt_phi[0]= 00000b04
+bt_theta[0]= 0000002c
+bt_sign_ph[0]= 00000035
+bt_sign_th[0]= 00000010
+pt_lut_addr[0]= 2d6b3597
+gmt_eta[0]= 0000009a
+gmt_qlt[0]= d
+
+ Number=          15,   event=         174
+bt_phi[0]= 00000a4d
+bt_theta[0]= 00000036
+bt_sign_ph[0]= 0000000f
+bt_sign_th[0]= 00000038
+pt_lut_addr[0]= 39b42a0f
+gmt_eta[0]= 0000008e
+gmt_qlt[0]= b
+
+ Number=          16,   event=         184
+bt_phi[0]= 00000e9c
+bt_theta[0]= 00000011
+bt_sign_ph[0]= 0000000f
+bt_sign_th[0]= 0000001e
+pt_lut_addr[0]= 3c95206e
+gmt_eta[0]= 000000c5
+gmt_qlt[0]= f
+
+ Number=          17,   event=         194
+bt_phi[0]= 000006c8
+bt_theta[0]= 0000004a
+bt_sign_ph[0]= 00000037
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3e483188
+gmt_eta[0]= 0000007a
+gmt_qlt[0]= f
+
+ Number=          18,   event=         204
+bt_phi[0]= 00000ef9
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 0c21290d
+gmt_eta[0]= 000000db
+gmt_qlt[0]= 8
+
+ Number=          19,   event=         214
+bt_phi[0]= 000009a4
+bt_theta[0]= 00000010
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000007
+pt_lut_addr[0]= 3c952b65
+gmt_eta[0]= 000000c7
+gmt_qlt[0]= f
+
+ Number=          20,   event=         234
+bt_phi[0]= 00000b44
+bt_theta[0]= 00000014
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 0000001e
+pt_lut_addr[0]= 3ca06159
+gmt_eta[0]= 000000bf
+gmt_qlt[0]= f
+
+ Number=          21,   event=         254
+bt_phi[0]= 00000684
+bt_theta[0]= 0000001b
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3cc48d70
+gmt_eta[0]= 000000b3
+gmt_qlt[0]= f
+
+ Number=          22,   event=         264
+bt_phi[0]= 00000736
+bt_theta[0]= 0000000d
+bt_sign_ph[0]= 00000018
+bt_sign_th[0]= 00000002
+pt_lut_addr[0]= 147929ff
+gmt_eta[0]= 000000cd
+gmt_qlt[0]= a
+
+ Number=          23,   event=         284
+bt_phi[0]= 00000ea6
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3c20925a
+gmt_eta[0]= 000000db
+gmt_qlt[0]= f
+
+ Number=          24,   event=         294
+bt_phi[0]= 00000b64
+bt_theta[0]= 00000051
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3e84320c
+gmt_eta[0]= 00000074
+gmt_qlt[0]= f
+
+ Number=          25,   event=         314
+bt_phi[0]= 000012f3
+bt_theta[0]= 00000009
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000007
+pt_lut_addr[0]= 3c5273d2
+gmt_eta[0]= 000000d6
+gmt_qlt[0]= f
+
+ Number=          26,   event=         324
+bt_phi[0]= 00000c2d
+bt_theta[0]= 00000032
+bt_sign_ph[0]= 0000001a
+bt_sign_th[0]= 00000026
+pt_lut_addr[0]= 31992450
+gmt_eta[0]= 00000093
+gmt_qlt[0]= 7
+
+ Number=          27,   event=         344
+bt_phi[0]= 00000680
+bt_theta[0]= 00000057
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3aa1e483
+gmt_eta[0]= 0000006e
+gmt_qlt[0]= b
+
+ Number=          28,   event=         354
+bt_phi[0]= 00001285
+bt_theta[0]= 00000009
+bt_sign_ph[0]= 0000000f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c56eaf6
+gmt_eta[0]= 000000d6
+gmt_qlt[0]= f
+
+ Number=          29,   event=         364
+bt_phi[0]= 00000ee3
+bt_theta[0]= 00000019
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 0000003f
+pt_lut_addr[0]= 38c01ebd
+gmt_eta[0]= 000000b6
+gmt_qlt[0]= b
+
+ Number=          30,   event=         374
+bt_phi[0]= 00000f6c
+bt_theta[0]= 0000004f
+bt_sign_ph[0]= 00000021
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3e680080
+gmt_eta[0]= 00000075
+gmt_qlt[0]= f
+
+ Number=          31,   event=         384
+bt_phi[0]= 00000edb
+bt_theta[0]= 00000008
+bt_sign_ph[0]= 00000000
+bt_sign_th[0]= 00000037
+pt_lut_addr[0]= 3c4c8c56
+gmt_eta[0]= 000000d9
+gmt_qlt[0]= f
+
+ Number=          32,   event=         394
+bt_phi[0]= 00000794
+bt_theta[0]= 0000003c
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000005
+pt_lut_addr[0]= 2df089a4
+gmt_eta[0]= 00000088
+gmt_qlt[0]= d
+
+ Number=          33,   event=         414
+bt_phi[0]= 00000e79
+bt_theta[0]= 00000039
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 0000001f
+pt_lut_addr[0]= 3dd5cbef
+gmt_eta[0]= 0000008b
+gmt_qlt[0]= f
+
+ Number=          34,   event=         424
+bt_phi[0]= 0000094c
+bt_theta[0]= 0000000a
+bt_sign_ph[0]= 00000037
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c5aebd4
+gmt_eta[0]= 000000d4
+gmt_qlt[0]= f
+
+ Number=          35,   event=         434
+bt_phi[0]= 000009ec
+bt_theta[0]= 00000031
+bt_sign_ph[0]= 00000018
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 15904c7f
+gmt_eta[0]= 00000094
+gmt_qlt[0]= a
+
+ Number=          36,   event=         444
+bt_phi[0]= 00000a47
+bt_theta[0]= 00000031
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3584eb67
+gmt_eta[0]= 00000094
+gmt_qlt[0]= f
+
+ Number=          37,   event=         454
+bt_phi[0]= 00001133
+bt_theta[0]= 00000012
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c973eb4
+gmt_eta[0]= 000000c3
+gmt_qlt[0]= f
+
+ Number=          38,   event=         464
+bt_phi[0]= 0000125b
+bt_theta[0]= 0000000e
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 0c680826
+gmt_eta[0]= 000000cb
+gmt_qlt[0]= 8
+
+ Number=          39,   event=         474
+bt_phi[0]= 00000c44
+bt_theta[0]= 00000042
+bt_sign_ph[0]= 0000001a
+bt_sign_th[0]= 00000026
+pt_lut_addr[0]= 3211243b
+gmt_eta[0]= 00000082
+gmt_qlt[0]= 7
+
+ Number=          40,   event=         484
+bt_phi[0]= 00000e90
+bt_theta[0]= 0000003b
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000007
+pt_lut_addr[0]= 3dc4361c
+gmt_eta[0]= 00000089
+gmt_qlt[0]= f
+
+ Number=          41,   event=         494
+bt_phi[0]= 000011dc
+bt_theta[0]= 0000001b
+bt_sign_ph[0]= 00000018
+bt_sign_th[0]= 00000002
+pt_lut_addr[0]= 14d840eb
+gmt_eta[0]= 000000b3
+gmt_qlt[0]= a
+
+ Number=          42,   event=         504
+bt_phi[0]= 00000a5c
+bt_theta[0]= 00000024
+bt_sign_ph[0]= 00000000
+bt_sign_th[0]= 0000001e
+pt_lut_addr[0]= 3d2c8873
+gmt_eta[0]= 000000a5
+gmt_qlt[0]= f
+
+ Number=          43,   event=         514
+bt_phi[0]= 00000aa4
+bt_theta[0]= 00000037
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000008
+pt_lut_addr[0]= 3dac0417
+gmt_eta[0]= 0000008d
+gmt_qlt[0]= f
+
+ Number=          44,   event=         524
+bt_phi[0]= 0000086c
+bt_theta[0]= 00000009
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 245834e2
+gmt_eta[0]= 000000d6
+gmt_qlt[0]= 5
+
+ Number=          45,   event=         554
+bt_phi[0]= 00001125
+bt_theta[0]= 0000001d
+bt_sign_ph[0]= 0000000f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3ce513e9
+gmt_eta[0]= 000000b0
+gmt_qlt[0]= f
+
+ Number=          46,   event=         564
+bt_phi[0]= 00000e44
+bt_theta[0]= 00000013
+bt_sign_ph[0]= 00000018
+bt_sign_th[0]= 00000006
+pt_lut_addr[0]= 34824af9
+gmt_eta[0]= 000000c1
+gmt_qlt[0]= f
+
+ Number=          47,   event=         574
+bt_phi[0]= 00000b94
+bt_theta[0]= 00000029
+bt_sign_ph[0]= 0000000b
+bt_sign_th[0]= 0000000a
+pt_lut_addr[0]= 1d40b858
+gmt_eta[0]= 0000009e
+gmt_qlt[0]= e
+
+ Number=          48,   event=         584
+bt_phi[0]= 00001273
+bt_theta[0]= 00000016
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 00000027
+pt_lut_addr[0]= 3cb31c70
+gmt_eta[0]= 000000bb
+gmt_qlt[0]= f
+
+ Number=          49,   event=         594
+bt_phi[0]= 0000092e
+bt_theta[0]= 00000015
+bt_sign_ph[0]= 00000000
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3cbc6219
+gmt_eta[0]= 000000bd
+gmt_qlt[0]= f
+
+ Number=          50,   event=         604
+bt_phi[0]= 000007ec
+bt_theta[0]= 00000021
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3d1c0441
+gmt_eta[0]= 000000a9
+gmt_qlt[0]= f
+
+ Number=          51,   event=         634
+bt_phi[0]= 00000d1a
+bt_theta[0]= 0000000b
+bt_sign_ph[0]= 00000000
+bt_sign_th[0]= 0000003f
+pt_lut_addr[0]= 3c5d0a64
+gmt_eta[0]= 000000d2
+gmt_qlt[0]= f
+
+ Number=          52,   event=         644
+bt_phi[0]= 000007e1
+bt_theta[0]= 00000038
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 0000001e
+pt_lut_addr[0]= 3dcc5cd1
+gmt_eta[0]= 0000008c
+gmt_qlt[0]= f
+
+ Number=          53,   event=         654
+bt_phi[0]= 00000e04
+bt_theta[0]= 00000008
+bt_sign_ph[0]= 0000000b
+bt_sign_th[0]= 0000000a
+pt_lut_addr[0]= 1c50ba46
+gmt_eta[0]= 000000d9
+gmt_qlt[0]= e
+
+ Number=          54,   event=         664
+bt_phi[0]= 000007ac
+bt_theta[0]= 0000001f
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3cec0c75
+gmt_eta[0]= 000000ac
+gmt_qlt[0]= f
+
+ Number=          55,   event=         674
+bt_phi[0]= 00000db0
+bt_theta[0]= 0000006a
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 0f501018
+gmt_eta[0]= 00000060
+gmt_qlt[0]= 4
+
+ Number=          56,   event=         684
+bt_phi[0]= 00001363
+bt_theta[0]= 00000013
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 38836381
+gmt_eta[0]= 000000c1
+gmt_qlt[0]= b
+
+ Number=          57,   event=         694
+bt_phi[0]= 00000e5c
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 00000021
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 0c380e70
+gmt_eta[0]= 000000db
+gmt_qlt[0]= 8
+
+ Number=          58,   event=         714
+bt_phi[0]= 000010b3
+bt_theta[0]= 00000021
+bt_sign_ph[0]= 00000021
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 0d00a67b
+gmt_eta[0]= 000000a9
+gmt_qlt[0]= 8
+
+ Number=          59,   event=         724
+bt_phi[0]= 00000924
+bt_theta[0]= 00000039
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000034
+pt_lut_addr[0]= 3dd44620
+gmt_eta[0]= 0000008b
+gmt_qlt[0]= f
+
+ Number=          60,   event=         744
+bt_phi[0]= 0000125b
+bt_theta[0]= 0000002b
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000007
+pt_lut_addr[0]= 3d5416ea
+gmt_eta[0]= 0000009c
+gmt_qlt[0]= f
+
+ Number=          61,   event=         754
+bt_phi[0]= 00000efb
+bt_theta[0]= 0000003a
+bt_sign_ph[0]= 0000000f
+bt_sign_th[0]= 0000001f
+pt_lut_addr[0]= 3dd552d7
+gmt_eta[0]= 0000008a
+gmt_qlt[0]= f
+
+ Number=          62,   event=         764
+bt_phi[0]= 000012fb
+bt_theta[0]= 0000001a
+bt_sign_ph[0]= 00000035
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 2cdaf466
+gmt_eta[0]= 000000b4
+gmt_qlt[0]= d
+
+ Number=          63,   event=         774
+bt_phi[0]= 00000b80
+bt_theta[0]= 0000003e
+bt_sign_ph[0]= 0000003f
+bt_sign_th[0]= 00000034
+pt_lut_addr[0]= 3dec0207
+gmt_eta[0]= 00000086
+gmt_qlt[0]= f
+
+ Number=          64,   event=         784
+bt_phi[0]= 0000129b
+bt_theta[0]= 0000004b
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 0000003f
+pt_lut_addr[0]= 3e50b6ce
+gmt_eta[0]= 00000079
+gmt_qlt[0]= f
+
+ Number=          65,   event=         794
+bt_phi[0]= 0000127b
+bt_theta[0]= 0000000f
+bt_sign_ph[0]= 00000030
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c74f7ce
+gmt_eta[0]= 000000c9
+gmt_qlt[0]= f
+
+ Number=          66,   event=         804
+bt_phi[0]= 00000b94
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 0c301450
+gmt_eta[0]= 000000db
+gmt_qlt[0]= 8
+
+ Number=          67,   event=         814
+bt_phi[0]= 00000bac
+bt_theta[0]= 00000030
+bt_sign_ph[0]= 00000030
+bt_sign_th[0]= 00000014
+pt_lut_addr[0]= 2d80a006
+gmt_eta[0]= 00000095
+gmt_qlt[0]= d
+
+ Number=          68,   event=         824
+bt_phi[0]= 000011e1
+bt_theta[0]= 00000008
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 38468cd6
+gmt_eta[0]= 000000d9
+gmt_qlt[0]= b
+
+ Number=          69,   event=         844
+bt_phi[0]= 00000cee
+bt_theta[0]= 0000000b
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 0000001e
+pt_lut_addr[0]= 3c420172
+gmt_eta[0]= 000000d2
+gmt_qlt[0]= f
+
+ Number=          70,   event=         854
+bt_phi[0]= 00000e1e
+bt_theta[0]= 00000007
+bt_sign_ph[0]= 00000003
+bt_sign_th[0]= 0000001a
+pt_lut_addr[0]= 1c30550a
+gmt_eta[0]= 000000db
+gmt_qlt[0]= e
+
+ Number=          71,   event=         884
+bt_phi[0]= 0000097b
+bt_theta[0]= 00000051
+bt_sign_ph[0]= 0000003c
+bt_sign_th[0]= 00000026
+pt_lut_addr[0]= 36922984
+gmt_eta[0]= 00000074
+gmt_qlt[0]= f
+
+ Number=          72,   event=         894
+bt_phi[0]= 00000b64
+bt_theta[0]= 00000024
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 0000003f
+pt_lut_addr[0]= 3d238e6f
+gmt_eta[0]= 000000a5
+gmt_qlt[0]= f
+
+ Number=          73,   event=         904
+bt_phi[0]= 00001023
+bt_theta[0]= 0000000f
+bt_sign_ph[0]= 00000000
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 3c6c1c6f
+gmt_eta[0]= 000000c9
+gmt_qlt[0]= f
+
+ Number=          74,   event=         914
+bt_phi[0]= 00000ce2
+bt_theta[0]= 0000002b
+bt_sign_ph[0]= 00000030
+bt_sign_th[0]= 00000012
+pt_lut_addr[0]= 2d532ffc
+gmt_eta[0]= 0000009c
+gmt_qlt[0]= d
+
+ Number=          75,   event=         924
+bt_phi[0]= 00001143
+bt_theta[0]= 00000027
+bt_sign_ph[0]= 00000020
+bt_sign_th[0]= 00000005
+pt_lut_addr[0]= 2d328207
+gmt_eta[0]= 000000a1
+gmt_qlt[0]= d
+
+ Number=          76,   event=         934
+bt_phi[0]= 000012eb
+bt_theta[0]= 0000001b
+bt_sign_ph[0]= 0000000b
+bt_sign_th[0]= 00000001
+pt_lut_addr[0]= 1cd0f4b2
+gmt_eta[0]= 000000b3
+gmt_qlt[0]= e
+
+ Number=          77,   event=         944
+bt_phi[0]= 00000f2b
+bt_theta[0]= 00000025
+bt_sign_ph[0]= 00000035
+bt_sign_th[0]= 00000005
+pt_lut_addr[0]= 2d2ab3e8
+gmt_eta[0]= 000000a4
+gmt_qlt[0]= d
+
+ Number=          78,   event=         954
+bt_phi[0]= 00000868
+bt_theta[0]= 00000052
+bt_sign_ph[0]= 0000001f
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 3e941204
+gmt_eta[0]= 00000073
+gmt_qlt[0]= f
+
+ Number=          79,   event=         974
+bt_phi[0]= 00000eac
+bt_theta[0]= 0000001f
+bt_sign_ph[0]= 00000025
+bt_sign_th[0]= 00000015
+pt_lut_addr[0]= 2cfa1ff9
+gmt_eta[0]= 000000ac
+gmt_qlt[0]= d
+
+ Number=          80,   event=         984
+bt_phi[0]= 00000a24
+bt_theta[0]= 00000014
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 0000001f
+pt_lut_addr[0]= 3ca2a456
+gmt_eta[0]= 000000bf
+gmt_qlt[0]= f
+
+ Number=          81,   event=         994
+bt_phi[0]= 000005f2
+bt_theta[0]= 00000017
+bt_sign_ph[0]= 00000038
+bt_sign_th[0]= 00000027
+pt_lut_addr[0]= 38a5fbc2
+gmt_eta[0]= 000000ba
+gmt_qlt[0]= b
+
+ Number=          82,   event=        1004
+bt_phi[0]= 00000bbc
+bt_theta[0]= 00000060
+bt_sign_ph[0]= 00000007
+bt_sign_th[0]= 00000000
+pt_lut_addr[0]= 1b100c04
+gmt_eta[0]= 00000067
+gmt_qlt[0]= 6
