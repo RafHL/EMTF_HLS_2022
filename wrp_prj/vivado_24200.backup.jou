@@ -1,0 +1,70 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Feb 19 23:11:54 2022
+# Process ID: 24200
+# Current directory: /home/rafe/.wkspc/eHLS_git_clone_prep/clone_to_bitstream_run/EMTF_HLS_2022/wrp_prj
+# Command line: vivado -mode tcl
+# Log file: /home/rafe/.wkspc/eHLS_git_clone_prep/clone_to_bitstream_run/EMTF_HLS_2022/wrp_prj/vivado.log
+# Journal file: /home/rafe/.wkspc/eHLS_git_clone_prep/clone_to_bitstream_run/EMTF_HLS_2022/wrp_prj/vivado.jou
+#-----------------------------------------------------------
+glob *
+set files [list glob *]
+files
+p
+files
+set files [1]
+files
+glob *
+set files [glob *]
+read files
+get files
+set files
+set files [list [glob *]]
+set files [list [file normalize [glob "./*"]]]
+set files [list [file normalize [glob "*"]]]
+set files [list [file normalize [glob ".*"]]]
+set files [list [file normalize [glob "./*"]]]
+file normalize [glob *]
+file normalize {*}[glob *]
+file normalize [glob *]
+set i 0
+set i [expr {$i + 1}]
+for {set i 0} {$i < llength{files}} {incr i}
+for {set i 0} {$i < llength{files}} {incr i}
+llength {files}
+puts files
+get files
+llength files
+llength $files
+get files
+foreach i $files {puts $i}
+for {set i 0} {$i < llength{files}} {incr i} {puts $i}
+for {set i 0} {$i < llength($files)} {incr i} {puts $i}
+for {set i 0} {$i < {llength($files)}} {incr i} {puts $i}
+{length{files}}
+{llength(files)}
+{llength(files)}
+{llength($files)}
+llength($files)
+length($files)
+length $files
+llength $files
+llength {$files}
+llength $files
+llength files
+{llength $files}
+{llength {$files}}
+{llength ($files)}
+llength
+llength help
+help llength help
+help llength
+llength(files)
+llength(2)
+llength 2
+llength 2 3 4
+llength {2 3 4}
+llength $files
+file normalize [glob *]

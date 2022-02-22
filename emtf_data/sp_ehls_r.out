@@ -284,10 +284,6 @@ event:      12
 event:      13
 
 event:      14
-    st:0    ch:2    ph:2952    th:15    phzvl:4
-    st:2    ch:1    ph:2932    th:13    phzvl:4
-    st:3    ch:1    ph:2933    th:15    phzvl:4
-    st:4    ch:1    ph:2932    th:15    phzvl:4
 
 event:      15
 
@@ -338,12 +334,8 @@ event:      37
 event:      38
 
 event:      39
-    st:3    ch:4    ph:2324    th:82    phzvl:1
 
 event:      40
-    st:0    ch:4    ph:2320    th:82    phzvl:1
-    st:2    ch:4    ph:2323    th:82    phzvl:1
-    st:4    ch:4    ph:2323    th:81    phzvl:1
 
 event:      41
 
@@ -396,8 +388,6 @@ event:      64
 event:      65
 
 event:      66
-    st:3    ch:6    ph:3613    th:47    phzvl:2
-    st:4    ch:6    ph:3549    th:46    phzvl:2
 
 event:      67
 
@@ -450,9 +440,6 @@ event:      90
 event:      91
 
 event:      92
-    st:2    ch:0    ph:2164    th:11    phzvl:4
-    st:3    ch:0    ph:2100    th:10    phzvl:4
-    st:4    ch:0    ph:2084    th:10    phzvl:4
 
 event:      93
 
@@ -505,11 +492,6 @@ event:     116
 event:     117
 
 event:     118
-    st:0    ch:0    ph:1729    th:27    phzvl:6
-    st:0    ch:0    ph:1729    th:27    phzvl:6
-    st:2    ch:0    ph:1620    th:25    phzvl:6
-    st:3    ch:0    ph:1620    th:24    phzvl:6
-    st:4    ch:0    ph:1652    th:24    phzvl:6
 
 event:     119
 
@@ -562,11 +544,6 @@ event:     142
 event:     143
 
 event:     144
-    st:1    ch:2    ph:4621    th:33    phzvl:2
-    st:1    ch:2    ph:4621    th:33    phzvl:2
-    st:2    ch:2    ph:4764    th:34    phzvl:2
-    st:3    ch:2    ph:4772    th:30    phzvl:2
-    st:4    ch:2    ph:4764    th:31    phzvl:2
 
 event:     145
 
@@ -619,11 +596,6 @@ event:     168
 event:     169
 
 event:     170
-    st:5    ch:0    ph:1022    th:33    phzvl:2
-    st:5    ch:0    ph:1022    th:33    phzvl:2
-    st:5    ch:3    ph:1164    th:32    phzvl:2
-    st:5    ch:5    ph:1172    th:32    phzvl:2
-    st:5    ch:7    ph:1164    th:32    phzvl:2
 
 event:     171
 
@@ -676,10 +648,6 @@ event:     194
 event:     195
 
 event:     196
-    st:0    ch:0    ph:1729    th:43    phzvl:2
-    st:0    ch:0    ph:1729    th:43    phzvl:2
-    st:2    ch:0    ph:1564    th:41    phzvl:2
-    st:4    ch:3    ph:1576    th:41    phzvl:2
 
 event:     197
 
@@ -732,7 +700,6 @@ event:     220
 event:     221
 
 event:     222
-    st:1    ch:3    ph:3223    th:59    phzvl:1
 
 event:     223
 
@@ -785,9 +752,6 @@ event:     246
 event:     247
 
 event:     248
-    st:1    ch:3    ph:3214    th:63    phzvl:1
-    st:3    ch:6    ph:3340    th:59    phzvl:1
-    st:4    ch:6    ph:3324    th:58    phzvl:1
 
 event:     249
 
@@ -840,8 +804,6 @@ event:     272
 event:     273
 
 event:     274
-    st:0    ch:0    ph:1669    th:39    phzvl:2
-    st:2    ch:0    ph:1684    th:39    phzvl:2
 
 event:     275
 
@@ -894,7 +856,6 @@ event:     298
 event:     299
 
 event:     300
-    st:2    ch:2    ph:4150    th:39    phzvl:2
 
 event:     301
 
@@ -947,7 +908,6 @@ event:     324
 event:     325
 
 event:     326
-    st:5    ch:3    ph:550    th:37    phzvl:2
 
 event:     327
 
@@ -1000,10 +960,6 @@ event:     350
 event:     351
 
 event:     352
-    st:1    ch:4    ph:4081    th:71    phzvl:1
-    st:2    ch:7    ph:4131    th:71    phzvl:1
-    st:3    ch:7    ph:4093    th:71    phzvl:1
-    st:4    ch:7    ph:4033    th:72    phzvl:1
 
 event:     353
 
@@ -1054,12 +1010,8 @@ event:     375
 event:     376
 
 event:     377
-    st:2    ch:0    ph:2078    th:30    phzvl:2
 
 event:     378
-    st:0    ch:0    ph:1782    th:30    phzvl:2
-    st:3    ch:0    ph:2094    th:26    phzvl:2
-    st:4    ch:0    ph:2062    th:25    phzvl:6
 
 event:     379
 
@@ -1110,10 +1062,8 @@ event:     401
 event:     402
 
 event:     403
-    st:3    ch:6    ph:3497    th:70    phzvl:1
 
 event:     404
-    st:1    ch:3    ph:3441    th:71    phzvl:1
 
 event:     405
 
@@ -1166,8 +1116,6 @@ event:     428
 event:     429
 
 event:     430
-    st:1    ch:0    ph:3337    th:16    phzvl:4
-    st:2    ch:1    ph:3324    th:16    phzvl:4
 
 event:     431
 
@@ -1220,8 +1168,6 @@ event:     454
 event:     455
 
 event:     456
-    st:2    ch:2    ph:4844    th:37    phzvl:2
-    st:3    ch:2    ph:4898    th:34    phzvl:2
 
 event:     457
 
@@ -1274,10 +1220,6 @@ event:     480
 event:     481
 
 event:     482
-    st:0    ch:0    ph:1551    th:40    phzvl:2
-    st:4    ch:0    ph:1374    th:32    phzvl:2
-    st:5    ch:3    ph:1244    th:35    phzvl:2
-    st:5    ch:5    ph:1298    th:36    phzvl:2
 
 event:     483
 
@@ -1330,9 +1272,6 @@ event:     506
 event:     507
 
 event:     508
-    st:1    ch:3    ph:3647    th:50    phzvl:2
-    st:3    ch:6    ph:3571    th:47    phzvl:2
-    st:4    ch:6    ph:3619    th:46    phzvl:2
 
 event:     509
 
@@ -1385,11 +1324,6 @@ event:     532
 event:     533
 
 event:     534
-    st:0    ch:5    ph:2592    th:58    phzvl:1
-    st:2    ch:5    ph:2596    th:58    phzvl:1
-    st:3    ch:5    ph:2596    th:58    phzvl:1
-    st:4    ch:5    ph:2600    th:58    phzvl:1
-    st:4    ch:5    ph:2557    th:58    phzvl:1
 
 event:     535
 
@@ -1442,9 +1376,6 @@ event:     558
 event:     559
 
 event:     560
-    st:1    ch:1    ph:4191    th:36    phzvl:2
-    st:2    ch:2    ph:3980    th:35    phzvl:2
-    st:3    ch:2    ph:4018    th:35    phzvl:2
 
 event:     561
 
@@ -1497,8 +1428,6 @@ event:     584
 event:     585
 
 event:     586
-    st:5    ch:3    ph:380    th:33    phzvl:2
-    st:5    ch:5    ph:418    th:36    phzvl:2
 
 event:     587
 
@@ -1551,13 +1480,6 @@ event:     610
 event:     611
 
 event:     612
-    st:0    ch:5    ph:3121    th:77    phzvl:1
-    st:2    ch:5    ph:3152    th:77    phzvl:1
-    st:2    ch:6    ph:3149    th:78    phzvl:1
-    st:3    ch:5    ph:3160    th:77    phzvl:1
-    st:3    ch:6    ph:3161    th:76    phzvl:1
-    st:4    ch:5    ph:3156    th:77    phzvl:1
-    st:4    ch:6    ph:3156    th:76    phzvl:1
 
 event:     613
 
@@ -1610,8 +1532,6 @@ event:     636
 event:     637
 
 event:     638
-    st:2    ch:0    ph:2250    th:42    phzvl:2
-    st:4    ch:4    ph:2138    th:46    phzvl:2
 
 event:     639
 
@@ -1664,8 +1584,6 @@ event:     662
 event:     663
 
 event:     664
-    st:2    ch:0    ph:2246    th:39    phzvl:2
-    st:4    ch:4    ph:2439    th:40    phzvl:2
 
 event:     665
 
@@ -1718,9 +1636,6 @@ event:     688
 event:     689
 
 event:     690
-    st:0    ch:0    ph:1680    th:16    phzvl:4
-    st:2    ch:0    ph:1844    th:17    phzvl:4
-    st:4    ch:0    ph:1900    th:16    phzvl:4
 
 event:     691
 
@@ -1773,7 +1688,6 @@ event:     714
 event:     715
 
 event:     716
-    st:4    ch:8    ph:4650    th:49    phzvl:2
 
 event:     717
 
@@ -1826,7 +1740,6 @@ event:     740
 event:     741
 
 event:     742
-    st:5    ch:8    ph:1050    th:49    phzvl:2
 
 event:     743
 
@@ -1879,9 +1792,6 @@ event:     766
 event:     767
 
 event:     768
-    st:0    ch:4    ph:1953    th:71    phzvl:1
-    st:3    ch:4    ph:2004    th:70    phzvl:1
-    st:3    ch:4    ph:2004    th:66    phzvl:1
 
 event:     769
 
@@ -1934,10 +1844,6 @@ event:     792
 event:     793
 
 event:     794
-    st:0    ch:1    ph:2338    th:14    phzvl:4
-    st:0    ch:1    ph:2338    th:14    phzvl:4
-    st:2    ch:0    ph:2260    th:14    phzvl:4
-    st:3    ch:0    ph:2244    th:11    phzvl:4
 
 event:     795
 
@@ -1990,9 +1896,6 @@ event:     818
 event:     819
 
 event:     820
-    st:0    ch:1    ph:2017    th:47    phzvl:2
-    st:3    ch:4    ph:2096    th:47    phzvl:2
-    st:4    ch:4    ph:2096    th:47    phzvl:2
 
 event:     821
 
@@ -2045,8 +1948,6 @@ event:     844
 event:     845
 
 event:     846
-    st:5    ch:5    ph:332    th:10    phzvl:4
-    st:5    ch:7    ph:332    th:11    phzvl:4
 
 event:     847
 
@@ -2099,10 +2000,6 @@ event:     870
 event:     871
 
 event:     872
-    st:1    ch:1    ph:3918    th:11    phzvl:4
-    st:1    ch:1    ph:3813    th:10    phzvl:4
-    st:3    ch:2    ph:3932    th:9    phzvl:4
-    st:4    ch:2    ph:3932    th:10    phzvl:4
 
 event:     873
 
@@ -2155,10 +2052,6 @@ event:     896
 event:     897
 
 event:     898
-    st:1    ch:1    ph:4183    th:39    phzvl:2
-    st:1    ch:1    ph:4183    th:39    phzvl:2
-    st:2    ch:2    ph:4612    th:38    phzvl:2
-    st:3    ch:2    ph:4596    th:34    phzvl:2
 
 event:     899
 
@@ -2211,8 +2104,6 @@ event:     922
 event:     923
 
 event:     924
-    st:5    ch:3    ph:1012    th:36    phzvl:2
-    st:5    ch:5    ph:996    th:35    phzvl:2
 
 event:     925
 
@@ -2265,10 +2156,6 @@ event:     948
 event:     949
 
 event:     950
-    st:0    ch:2    ph:2831    th:46    phzvl:2
-    st:0    ch:2    ph:2831    th:46    phzvl:2
-    st:2    ch:1    ph:2894    th:43    phzvl:2
-    st:4    ch:5    ph:2884    th:46    phzvl:2
 
 event:     951
 
@@ -2321,10 +2208,6 @@ event:     974
 event:     975
 
 event:     976
-    st:1    ch:0    ph:3543    th:35    phzvl:2
-    st:1    ch:0    ph:3543    th:35    phzvl:2
-    st:2    ch:1    ph:3222    th:32    phzvl:2
-    st:3    ch:1    ph:3624    th:38    phzvl:2
 
 event:     977
 
@@ -2377,10 +2260,6 @@ event:    1000
 event:    1001
 
 event:    1002
-    st:0    ch:3    ph:1921    th:52    phzvl:3
-    st:3    ch:3    ph:1956    th:52    phzvl:3
-    st:4    ch:3    ph:1949    th:52    phzvl:3
-    st:4    ch:4    ph:1948    th:52    phzvl:3
 
 event:    1003
 
@@ -2433,10 +2312,6 @@ event:    1026
 event:    1027
 
 event:    1028
-    st:5    ch:1    ph:965    th:71    phzvl:1
-    st:5    ch:4    ph:976    th:71    phzvl:1
-    st:5    ch:6    ph:980    th:71    phzvl:1
-    st:5    ch:8    ph:980    th:71    phzvl:1
 
 event:    1029
 
@@ -2489,10 +2364,6 @@ event:    1052
 event:    1053
 
 event:    1054
-    st:1    ch:5    ph:4565    th:71    phzvl:1
-    st:2    ch:8    ph:4576    th:71    phzvl:1
-    st:3    ch:8    ph:4580    th:71    phzvl:1
-    st:4    ch:8    ph:4580    th:71    phzvl:1
 
 event:    1055
 
@@ -2545,7 +2416,6 @@ event:    1078
 event:    1079
 
 event:    1080
-    st:0    ch:2    ph:3093    th:45    phzvl:2
 
 event:    1081
 
@@ -2598,8 +2468,6 @@ event:    1104
 event:    1105
 
 event:    1106
-    st:0    ch:1    ph:2065    th:44    phzvl:2
-    st:0    ch:1    ph:2065    th:44    phzvl:2
 
 event:    1107
 
@@ -2652,9 +2520,6 @@ event:    1130
 event:    1131
 
 event:    1132
-    st:1    ch:0    ph:3200    th:26    phzvl:6
-    st:3    ch:1    ph:3501    th:21    phzvl:4
-    st:4    ch:1    ph:3454    th:19    phzvl:4
 
 event:    1133
 
@@ -2707,9 +2572,6 @@ event:    1156
 event:    1157
 
 event:    1158
-    st:0    ch:1    ph:2243    th:40    phzvl:2
-    st:0    ch:1    ph:2243    th:40    phzvl:2
-    st:2    ch:0    ph:1596    th:34    phzvl:2
 
 event:    1159
 
@@ -2762,10 +2624,6 @@ event:    1182
 event:    1183
 
 event:    1184
-    st:1    ch:1    ph:4150    th:5    phzvl:4
-    st:2    ch:2    ph:4020    th:8    phzvl:4
-    st:3    ch:2    ph:4028    th:6    phzvl:4
-    st:4    ch:2    ph:4044    th:7    phzvl:4
 
 event:    1185
 
@@ -2818,9 +2676,6 @@ event:    1208
 event:    1209
 
 event:    1210
-    st:5    ch:3    ph:420    th:7    phzvl:4
-    st:5    ch:5    ph:428    th:7    phzvl:4
-    st:5    ch:7    ph:444    th:8    phzvl:4
 
 event:    1211
 
@@ -2873,10 +2728,6 @@ event:    1234
 event:    1235
 
 event:    1236
-    st:0    ch:1    ph:2047    th:8    phzvl:4
-    st:2    ch:0    ph:2020    th:7    phzvl:4
-    st:3    ch:0    ph:2004    th:7    phzvl:4
-    st:4    ch:0    ph:2004    th:7    phzvl:4
 
 event:    1237
 
@@ -2929,11 +2780,6 @@ event:    1260
 event:    1261
 
 event:    1262
-    st:1    ch:0    ph:3716    th:47    phzvl:2
-    st:1    ch:0    ph:3716    th:47    phzvl:2
-    st:2    ch:1    ph:3660    th:43    phzvl:2
-    st:3    ch:6    ph:3655    th:46    phzvl:2
-    st:4    ch:6    ph:3656    th:46    phzvl:2
 
 event:    1263
 
@@ -2986,12 +2832,6 @@ event:    1286
 event:    1287
 
 event:    1288
-    st:0    ch:1    ph:2161    th:24    phzvl:6
-    st:0    ch:1    ph:2161    th:24    phzvl:6
-    st:2    ch:0    ph:2188    th:24    phzvl:6
-    st:3    ch:0    ph:2188    th:22    phzvl:4
-    st:3    ch:0    ph:2188    th:20    phzvl:4
-    st:4    ch:0    ph:2190    th:22    phzvl:4
 
 event:    1289
 
@@ -3044,10 +2884,6 @@ event:    1312
 event:    1313
 
 event:    1314
-    st:1    ch:4    ph:4003    th:68    phzvl:1
-    st:2    ch:7    ph:3944    th:68    phzvl:1
-    st:3    ch:7    ph:3940    th:68    phzvl:1
-    st:4    ch:7    ph:3944    th:68    phzvl:1
 
 event:    1315
 
@@ -3100,10 +2936,6 @@ event:    1338
 event:    1339
 
 event:    1340
-    st:1    ch:0    ph:3523    th:28    phzvl:2
-    st:1    ch:0    ph:3523    th:28    phzvl:2
-    st:2    ch:1    ph:3476    th:25    phzvl:6
-    st:4    ch:1    ph:3468    th:28    phzvl:2
 
 event:    1341
 
@@ -3156,10 +2988,6 @@ event:    1364
 event:    1365
 
 event:    1366
-    st:0    ch:2    ph:2938    th:21    phzvl:4
-    st:0    ch:2    ph:2938    th:21    phzvl:4
-    st:2    ch:1    ph:3020    th:21    phzvl:4
-    st:4    ch:1    ph:3020    th:21    phzvl:4
 
 event:    1367
 
@@ -3212,10 +3040,6 @@ event:    1390
 event:    1391
 
 event:    1392
-    st:0    ch:4    ph:2502    th:53    phzvl:3
-    st:0    ch:5    ph:2549    th:52    phzvl:3
-    st:3    ch:5    ph:2652    th:52    phzvl:3
-    st:4    ch:5    ph:2624    th:51    phzvl:3
 
 event:    1393
 
@@ -3268,11 +3092,6 @@ event:    1416
 event:    1417
 
 event:    1418
-    st:0    ch:1    ph:2210    th:24    phzvl:6
-    st:0    ch:1    ph:2338    th:25    phzvl:6
-    st:2    ch:1    ph:2638    th:24    phzvl:6
-    st:3    ch:1    ph:2661    th:27    phzvl:2
-    st:4    ch:1    ph:2622    th:27    phzvl:2
 
 event:    1419
 
@@ -3325,11 +3144,6 @@ event:    1442
 event:    1443
 
 event:    1444
-    st:0    ch:0    ph:1903    th:48    phzvl:2
-    st:0    ch:3    ph:1864    th:48    phzvl:2
-    st:2    ch:0    ph:1842    th:47    phzvl:2
-    st:3    ch:3    ph:1832    th:47    phzvl:2
-    st:4    ch:3    ph:1832    th:47    phzvl:2
 
 event:    1445
 
@@ -3382,10 +3196,6 @@ event:    1468
 event:    1469
 
 event:    1470
-    st:1    ch:2    ph:4482    th:47    phzvl:2
-    st:2    ch:2    ph:4492    th:47    phzvl:2
-    st:3    ch:8    ph:4496    th:47    phzvl:2
-    st:4    ch:8    ph:4496    th:47    phzvl:2
 
 event:    1471
 
@@ -3438,10 +3248,6 @@ event:    1494
 event:    1495
 
 event:    1496
-    st:5    ch:0    ph:883    th:47    phzvl:2
-    st:5    ch:3    ph:892    th:45    phzvl:2
-    st:5    ch:6    ph:896    th:47    phzvl:2
-    st:5    ch:8    ph:896    th:47    phzvl:2
 
 event:    1497
 
@@ -3494,9 +3300,6 @@ event:    1520
 event:    1521
 
 event:    1522
-    st:2    ch:2    ph:4308    th:7    phzvl:4
-    st:3    ch:2    ph:4332    th:7    phzvl:4
-    st:4    ch:2    ph:4332    th:7    phzvl:4
 
 event:    1523
 
@@ -3549,9 +3352,6 @@ event:    1546
 event:    1547
 
 event:    1548
-    st:5    ch:3    ph:708    th:6    phzvl:4
-    st:5    ch:5    ph:732    th:8    phzvl:4
-    st:5    ch:7    ph:732    th:8    phzvl:4
 
 event:    1549
 
@@ -3604,11 +3404,6 @@ event:    1572
 event:    1573
 
 event:    1574
-    st:0    ch:1    ph:2038    th:19    phzvl:4
-    st:0    ch:1    ph:2038    th:19    phzvl:4
-    st:2    ch:0    ph:2076    th:17    phzvl:4
-    st:3    ch:0    ph:2062    th:14    phzvl:4
-    st:4    ch:0    ph:2022    th:14    phzvl:4
 
 event:    1575
 
@@ -3661,11 +3456,6 @@ event:    1598
 event:    1599
 
 event:    1600
-    st:1    ch:0    ph:3272    th:38    phzvl:2
-    st:2    ch:2    ph:3846    th:33    phzvl:2
-    st:3    ch:1    ph:3642    th:31    phzvl:2
-    st:3    ch:2    ph:3726    th:28    phzvl:2
-    st:4    ch:1    ph:3334    th:31    phzvl:2
 
 event:    1601
 
@@ -3718,8 +3508,6 @@ event:    1624
 event:    1625
 
 event:    1626
-    st:5    ch:3    ph:246    th:31    phzvl:2
-    st:5    ch:5    ph:126    th:29    phzvl:2
 
 event:    1627
 
@@ -3772,10 +3560,6 @@ event:    1650
 event:    1651
 
 event:    1652
-    st:1    ch:3    ph:3479    th:73    phzvl:1
-    st:2    ch:6    ph:3344    th:72    phzvl:1
-    st:3    ch:6    ph:3454    th:74    phzvl:1
-    st:4    ch:6    ph:3544    th:79    phzvl:1
 
 event:    1653
 
@@ -3828,10 +3612,6 @@ event:    1676
 event:    1677
 
 event:    1678
-    st:1    ch:0    ph:3258    th:44    phzvl:2
-    st:1    ch:0    ph:3258    th:44    phzvl:2
-    st:2    ch:1    ph:2860    th:40    phzvl:2
-    st:4    ch:5    ph:2832    th:42    phzvl:2
 
 event:    1679
 
@@ -3884,8 +3664,6 @@ event:    1702
 event:    1703
 
 event:    1704
-    st:1    ch:2    ph:4571    th:42    phzvl:2
-    st:2    ch:2    ph:4244    th:40    phzvl:2
 
 event:    1705
 
@@ -3938,8 +3716,6 @@ event:    1728
 event:    1729
 
 event:    1730
-    st:5    ch:0    ph:972    th:42    phzvl:2
-    st:5    ch:3    ph:644    th:38    phzvl:2
 
 event:    1731
 
@@ -3992,11 +3768,6 @@ event:    1754
 event:    1755
 
 event:    1756
-    st:0    ch:2    ph:2745    th:21    phzvl:4
-    st:0    ch:2    ph:2878    th:22    phzvl:4
-    st:2    ch:1    ph:3012    th:19    phzvl:4
-    st:3    ch:1    ph:3005    th:18    phzvl:4
-    st:4    ch:1    ph:2966    th:17    phzvl:4
 
 event:    1757
 
@@ -4049,10 +3820,6 @@ event:    1780
 event:    1781
 
 event:    1782
-    st:0    ch:1    ph:2257    th:28    phzvl:2
-    st:0    ch:1    ph:2326    th:28    phzvl:2
-    st:2    ch:0    ph:2362    th:26    phzvl:2
-    st:3    ch:0    ph:2332    th:23    phzvl:6
 
 event:    1783
 
@@ -4105,8 +3872,6 @@ event:    1806
 event:    1807
 
 event:    1808
-    st:1    ch:4    ph:3890    th:50    phzvl:2
-    st:2    ch:2    ph:3798    th:46    phzvl:2
 
 event:    1809
 
@@ -4159,7 +3924,6 @@ event:    1832
 event:    1833
 
 event:    1834
-    st:5    ch:3    ph:198    th:44    phzvl:2
 
 event:    1835
 
@@ -4212,11 +3976,6 @@ event:    1858
 event:    1859
 
 event:    1860
-    st:0    ch:2    ph:2975    th:20    phzvl:4
-    st:0    ch:2    ph:2975    th:20    phzvl:4
-    st:2    ch:1    ph:3044    th:17    phzvl:4
-    st:3    ch:1    ph:3061    th:20    phzvl:4
-    st:4    ch:1    ph:3052    th:20    phzvl:4
 
 event:    1861
 
@@ -4269,11 +4028,6 @@ event:    1884
 event:    1885
 
 event:    1886
-    st:0    ch:0    ph:1514    th:19    phzvl:4
-    st:0    ch:0    ph:1514    th:19    phzvl:4
-    st:2    ch:0    ph:1990    th:16    phzvl:4
-    st:3    ch:0    ph:1996    th:12    phzvl:4
-    st:4    ch:0    ph:1918    th:13    phzvl:4
 
 event:    1887
 
@@ -4326,10 +4080,6 @@ event:    1910
 event:    1911
 
 event:    1912
-    st:0    ch:1    ph:2149    th:28    phzvl:2
-    st:2    ch:0    ph:2022    th:28    phzvl:2
-    st:3    ch:0    ph:2020    th:25    phzvl:6
-    st:4    ch:0    ph:2028    th:26    phzvl:2
 
 event:    1913
 
@@ -4382,10 +4132,6 @@ event:    1936
 event:    1937
 
 event:    1938
-    st:0    ch:0    ph:1678    th:31    phzvl:2
-    st:2    ch:0    ph:1540    th:32    phzvl:2
-    st:3    ch:0    ph:1532    th:29    phzvl:2
-    st:4    ch:0    ph:1518    th:29    phzvl:2
 
 event:    1939
 
@@ -4438,11 +4184,6 @@ event:    1962
 event:    1963
 
 event:    1964
-    st:0    ch:4    ph:2477    th:54    phzvl:3
-    st:2    ch:5    ph:2576    th:54    phzvl:1
-    st:3    ch:5    ph:2580    th:54    phzvl:3
-    st:3    ch:5    ph:2580    th:56    phzvl:3
-    st:4    ch:5    ph:2567    th:54    phzvl:3
 
 event:    1965
 
@@ -4495,11 +4236,6 @@ event:    1988
 event:    1989
 
 event:    1990
-    st:1    ch:1    ph:4173    th:18    phzvl:4
-    st:1    ch:1    ph:4173    th:18    phzvl:4
-    st:2    ch:2    ph:4428    th:17    phzvl:4
-    st:3    ch:2    ph:4414    th:17    phzvl:4
-    st:4    ch:2    ph:4348    th:18    phzvl:4
 
 event:    1991
 
@@ -4552,9 +4288,6 @@ event:    2014
 event:    2015
 
 event:    2016
-    st:5    ch:3    ph:828    th:16    phzvl:4
-    st:5    ch:5    ph:814    th:19    phzvl:4
-    st:5    ch:7    ph:748    th:19    phzvl:4
 
 event:    2017
 
@@ -4607,11 +4340,6 @@ event:    2040
 event:    2041
 
 event:    2042
-    st:0    ch:4    ph:2428    th:68    phzvl:1
-    st:2    ch:4    ph:2404    th:67    phzvl:1
-    st:3    ch:4    ph:2397    th:67    phzvl:1
-    st:4    ch:4    ph:2400    th:69    phzvl:1
-    st:4    ch:4    ph:2357    th:69    phzvl:1
 
 event:    2043
 
@@ -4664,7 +4392,6 @@ event:    2066
 event:    2067
 
 event:    2068
-    st:2    ch:0    ph:2354    th:45    phzvl:2
 
 event:    2069
 
@@ -4717,10 +4444,6 @@ event:    2092
 event:    2093
 
 event:    2094
-    st:1    ch:1    ph:4152    th:14    phzvl:4
-    st:2    ch:2    ph:4084    th:14    phzvl:4
-    st:3    ch:2    ph:4068    th:14    phzvl:4
-    st:4    ch:2    ph:4076    th:14    phzvl:4
 
 event:    2095
 
@@ -4773,9 +4496,6 @@ event:    2118
 event:    2119
 
 event:    2120
-    st:5    ch:3    ph:484    th:13    phzvl:4
-    st:5    ch:5    ph:468    th:15    phzvl:4
-    st:5    ch:7    ph:476    th:15    phzvl:4
 
 event:    2121
 
@@ -4828,9 +4548,6 @@ event:    2144
 event:    2145
 
 event:    2146
-    st:0    ch:0    ph:1845    th:16    phzvl:4
-    st:2    ch:0    ph:1868    th:17    phzvl:4
-    st:3    ch:0    ph:1876    th:15    phzvl:4
 
 event:    2147
 
@@ -4883,11 +4600,6 @@ event:    2170
 event:    2171
 
 event:    2172
-    st:0    ch:4    ph:2003    th:69    phzvl:1
-    st:2    ch:3    ph:1920    th:66    phzvl:1
-    st:3    ch:3    ph:1947    th:64    phzvl:1
-    st:3    ch:4    ph:1963    th:64    phzvl:1
-    st:4    ch:4    ph:2008    th:62    phzvl:1
 
 event:    2173
 
@@ -4940,9 +4652,6 @@ event:    2196
 event:    2197
 
 event:    2198
-    st:1    ch:5    ph:4617    th:60    phzvl:1
-    st:3    ch:8    ph:4703    th:59    phzvl:1
-    st:4    ch:8    ph:4688    th:59    phzvl:1
 
 event:    2199
 
@@ -4995,9 +4704,6 @@ event:    2222
 event:    2223
 
 event:    2224
-    st:5    ch:1    ph:1017    th:60    phzvl:1
-    st:5    ch:6    ph:1103    th:59    phzvl:1
-    st:5    ch:8    ph:1088    th:59    phzvl:1
 
 event:    2225
 
@@ -5050,9 +4756,6 @@ event:    2248
 event:    2249
 
 event:    2250
-    st:1    ch:3    ph:3525    th:64    phzvl:1
-    st:2    ch:6    ph:3588    th:63    phzvl:1
-    st:3    ch:6    ph:3577    th:61    phzvl:1
 
 event:    2251
 
@@ -5105,9 +4808,6 @@ event:    2274
 event:    2275
 
 event:    2276
-    st:0    ch:5    ph:2543    th:68    phzvl:1
-    st:2    ch:4    ph:2508    th:68    phzvl:1
-    st:4    ch:4    ph:2520    th:68    phzvl:1
 
 event:    2277
 
@@ -5160,9 +4860,6 @@ event:    2300
 event:    2301
 
 event:    2302
-    st:2    ch:1    ph:3644    th:7    phzvl:4
-    st:3    ch:1    ph:3685    th:9    phzvl:4
-    st:4    ch:1    ph:3692    th:9    phzvl:4
 
 event:    2303
 
@@ -5215,10 +4912,6 @@ event:    2326
 event:    2327
 
 event:    2328
-    st:0    ch:1    ph:2330    th:7    phzvl:4
-    st:2    ch:0    ph:2210    th:7    phzvl:4
-    st:3    ch:0    ph:2180    th:6    phzvl:4
-    st:4    ch:0    ph:2172    th:7    phzvl:4
 
 event:    2329
 
@@ -5271,7 +4964,6 @@ event:    2352
 event:    2353
 
 event:    2354
-    st:1    ch:4    ph:3885    th:57    phzvl:1
 
 event:    2355
 
@@ -5324,10 +5016,6 @@ event:    2378
 event:    2379
 
 event:    2380
-    st:5    ch:3    ph:396    th:22    phzvl:4
-    st:5    ch:3    ph:506    th:22    phzvl:4
-    st:5    ch:5    ph:394    th:22    phzvl:4
-    st:5    ch:7    ph:396    th:22    phzvl:4
 
 event:    2381
 
@@ -5380,11 +5068,6 @@ event:    2404
 event:    2405
 
 event:    2406
-    st:1    ch:1    ph:4054    th:23    phzvl:4
-    st:2    ch:2    ph:3996    th:24    phzvl:6
-    st:2    ch:2    ph:4106    th:24    phzvl:6
-    st:3    ch:2    ph:3994    th:20    phzvl:4
-    st:4    ch:2    ph:3996    th:21    phzvl:4
 
 event:    2407
 
@@ -5437,7 +5120,6 @@ event:    2430
 event:    2431
 
 event:    2432
-    st:1    ch:3    ph:3553    th:53    phzvl:3
 
 event:    2433
 
@@ -5490,10 +5172,6 @@ event:    2456
 event:    2457
 
 event:    2458
-    st:0    ch:0    ph:1935    th:47    phzvl:2
-    st:0    ch:3    ph:1816    th:50    phzvl:2
-    st:3    ch:3    ph:1820    th:50    phzvl:3
-    st:4    ch:3    ph:1819    th:50    phzvl:3
 
 event:    2459
 
@@ -5546,9 +5224,6 @@ event:    2482
 event:    2483
 
 event:    2484
-    st:0    ch:0    ph:1862    th:25    phzvl:6
-    st:0    ch:0    ph:1862    th:25    phzvl:6
-    st:3    ch:0    ph:1812    th:24    phzvl:6
 
 event:    2485
 
@@ -5601,9 +5276,6 @@ event:    2508
 event:    2509
 
 event:    2510
-    st:0    ch:4    ph:2114    th:64    phzvl:1
-    st:2    ch:4    ph:2200    th:59    phzvl:1
-    st:3    ch:4    ph:2033    th:59    phzvl:1
 
 event:    2511
 
@@ -5656,9 +5328,6 @@ event:    2534
 event:    2535
 
 event:    2536
-    st:1    ch:0    ph:3618    th:48    phzvl:2
-    st:2    ch:2    ph:4108    th:44    phzvl:2
-    st:4    ch:7    ph:3949    th:40    phzvl:2
 
 event:    2537
 
@@ -5711,7 +5380,6 @@ event:    2560
 event:    2561
 
 event:    2562
-    st:5    ch:3    ph:508    th:42    phzvl:2
 
 event:    2563
 
@@ -5764,10 +5432,6 @@ event:    2586
 event:    2587
 
 event:    2588
-    st:1    ch:3    ph:3500    th:83    phzvl:1
-    st:2    ch:6    ph:3464    th:82    phzvl:1
-    st:3    ch:6    ph:3460    th:81    phzvl:1
-    st:4    ch:6    ph:3460    th:80    phzvl:1
 
 event:    2589
 
@@ -5820,10 +5484,6 @@ event:    2612
 event:    2613
 
 event:    2614
-    st:1    ch:2    ph:4537    th:10    phzvl:4
-    st:2    ch:2    ph:4340    th:9    phzvl:4
-    st:3    ch:2    ph:4278    th:8    phzvl:4
-    st:4    ch:2    ph:4254    th:8    phzvl:4
 
 event:    2615
 
@@ -5876,10 +5536,6 @@ event:    2638
 event:    2639
 
 event:    2640
-    st:5    ch:0    ph:938    th:10    phzvl:4
-    st:5    ch:3    ph:740    th:8    phzvl:4
-    st:5    ch:5    ph:678    th:9    phzvl:4
-    st:5    ch:7    ph:654    th:9    phzvl:4
 
 event:    2641
 
@@ -5932,10 +5588,6 @@ event:    2664
 event:    2665
 
 event:    2666
-    st:0    ch:5    ph:2844    th:72    phzvl:1
-    st:2    ch:5    ph:2808    th:72    phzvl:1
-    st:3    ch:5    ph:2804    th:72    phzvl:1
-    st:4    ch:5    ph:2807    th:72    phzvl:1
 
 event:    2667
 
@@ -5988,10 +5640,6 @@ event:    2690
 event:    2691
 
 event:    2692
-    st:0    ch:1    ph:2078    th:50    phzvl:2
-    st:0    ch:4    ph:2072    th:50    phzvl:2
-    st:3    ch:4    ph:2068    th:50    phzvl:3
-    st:4    ch:4    ph:2068    th:49    phzvl:2
 
 event:    2693
 
@@ -6044,11 +5692,6 @@ event:    2716
 event:    2717
 
 event:    2718
-    st:0    ch:1    ph:2439    th:33    phzvl:2
-    st:2    ch:0    ph:2250    th:33    phzvl:2
-    st:3    ch:0    ph:2234    th:31    phzvl:2
-    st:3    ch:0    ph:2234    th:29    phzvl:2
-    st:4    ch:0    ph:2244    th:29    phzvl:2
 
 event:    2719
 
@@ -6101,10 +5744,6 @@ event:    2742
 event:    2743
 
 event:    2744
-    st:0    ch:3    ph:1552    th:78    phzvl:1
-    st:2    ch:3    ph:1580    th:78    phzvl:1
-    st:3    ch:3    ph:1579    th:78    phzvl:1
-    st:4    ch:3    ph:1580    th:78    phzvl:1
 
 event:    2745
 
@@ -6157,13 +5796,6 @@ event:    2768
 event:    2769
 
 event:    2770
-    st:0    ch:4    ph:1999    th:76    phzvl:1
-    st:2    ch:3    ph:1948    th:75    phzvl:1
-    st:2    ch:4    ph:1952    th:75    phzvl:1
-    st:3    ch:3    ph:1943    th:75    phzvl:1
-    st:3    ch:4    ph:1943    th:74    phzvl:1
-    st:4    ch:3    ph:1944    th:75    phzvl:1
-    st:4    ch:4    ph:1944    th:74    phzvl:1
 
 event:    2771
 
@@ -6216,11 +5848,6 @@ event:    2794
 event:    2795
 
 event:    2796
-    st:1    ch:2    ph:4882    th:34    phzvl:2
-    st:1    ch:2    ph:4882    th:34    phzvl:2
-    st:2    ch:2    ph:4668    th:32    phzvl:2
-    st:3    ch:2    ph:4700    th:33    phzvl:2
-    st:4    ch:2    ph:4740    th:33    phzvl:2
 
 event:    2797
 
@@ -6273,11 +5900,6 @@ event:    2820
 event:    2821
 
 event:    2822
-    st:5    ch:0    ph:1283    th:34    phzvl:2
-    st:5    ch:0    ph:1283    th:34    phzvl:2
-    st:5    ch:3    ph:1068    th:31    phzvl:2
-    st:5    ch:5    ph:1100    th:34    phzvl:2
-    st:5    ch:7    ph:1140    th:35    phzvl:2
 
 event:    2823
 
@@ -6330,10 +5952,6 @@ event:    2846
 event:    2847
 
 event:    2848
-    st:0    ch:5    ph:2870    th:61    phzvl:1
-    st:2    ch:5    ph:2792    th:60    phzvl:1
-    st:3    ch:5    ph:2832    th:60    phzvl:1
-    st:4    ch:5    ph:2891    th:60    phzvl:1
 
 event:    2849
 
@@ -6386,10 +6004,6 @@ event:    2872
 event:    2873
 
 event:    2874
-    st:0    ch:4    ph:1989    th:74    phzvl:1
-    st:2    ch:4    ph:2096    th:73    phzvl:1
-    st:3    ch:4    ph:2124    th:71    phzvl:1
-    st:4    ch:4    ph:2124    th:71    phzvl:1
 
 event:    2875
 
@@ -6442,11 +6056,6 @@ event:    2898
 event:    2899
 
 event:    2900
-    st:0    ch:2    ph:2810    th:29    phzvl:2
-    st:2    ch:0    ph:2540    th:29    phzvl:2
-    st:2    ch:1    ph:2548    th:26    phzvl:2
-    st:3    ch:0    ph:2556    th:25    phzvl:6
-    st:4    ch:1    ph:2644    th:28    phzvl:2
 
 event:    2901
 
@@ -6499,12 +6108,6 @@ event:    2924
 event:    2925
 
 event:    2926
-    st:0    ch:2    ph:2746    th:46    phzvl:2
-    st:0    ch:2    ph:2746    th:46    phzvl:2
-    st:0    ch:5    ph:2881    th:46    phzvl:2
-    st:2    ch:1    ph:2966    th:45    phzvl:2
-    st:3    ch:5    ph:2992    th:47    phzvl:2
-    st:4    ch:5    ph:2999    th:46    phzvl:2
 
 event:    2927
 
@@ -6557,10 +6160,6 @@ event:    2950
 event:    2951
 
 event:    2952
-    st:0    ch:2    ph:2867    th:20    phzvl:4
-    st:0    ch:2    ph:2867    th:20    phzvl:4
-    st:2    ch:1    ph:3036    th:20    phzvl:4
-    st:3    ch:1    ph:3061    th:20    phzvl:4
 
 event:    2953
 
@@ -6613,7 +6212,6 @@ event:    2976
 event:    2977
 
 event:    2978
-    st:2    ch:1    ph:3316    th:44    phzvl:2
 
 event:    2979
 
@@ -6666,11 +6264,6 @@ event:    3002
 event:    3003
 
 event:    3004
-    st:1    ch:2    ph:4709    th:48    phzvl:2
-    st:1    ch:2    ph:4709    th:48    phzvl:2
-    st:2    ch:2    ph:4420    th:48    phzvl:2
-    st:3    ch:8    ph:4456    th:45    phzvl:2
-    st:4    ch:8    ph:4507    th:45    phzvl:2
 
 event:    3005
 
@@ -6723,11 +6316,6 @@ event:    3028
 event:    3029
 
 event:    3030
-    st:5    ch:0    ph:1110    th:48    phzvl:2
-    st:5    ch:0    ph:1110    th:48    phzvl:2
-    st:5    ch:3    ph:820    th:46    phzvl:2
-    st:5    ch:6    ph:856    th:45    phzvl:2
-    st:5    ch:8    ph:907    th:45    phzvl:2
 
 event:    3031
 
@@ -6780,10 +6368,6 @@ event:    3054
 event:    3055
 
 event:    3056
-    st:1    ch:4    ph:3908    th:81    phzvl:1
-    st:2    ch:7    ph:3908    th:81    phzvl:1
-    st:3    ch:7    ph:3908    th:80    phzvl:1
-    st:4    ch:7    ph:3907    th:81    phzvl:1
 
 event:    3057
 

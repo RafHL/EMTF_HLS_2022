@@ -717,8 +717,30 @@ report_utilization -file $report_dir/post_synth_util.rpt
 
 # Logic Optimization
 opt_design
-reportCriticalPaths $report_dir/post_opt_critpath_report.csv
+#reportCriticalPaths $report_dir/post_opt_critpath_report.csv
 place_design
 report_clock_utilization -file $report_dir/clock_util.rpt
+
+# Check for timing
+if {[get_property SLACK [get_timing_paths -max_paths 1 -nworst 1 -setup]] < 0} {
+  puts "Found setup timing violations => running physical optimization"
+  phys_opt_design
+}
+write_checkpoint -force $report_dir/post_place.dcp
+report_utilization -file $report_dir/post_place_util.rpt
+report_timing_summary -file $report_dir/post_place_timing_summary.rpt
+
+# Routing
+route_design
+write_checkpoint -force $report_dir/post_route.dcp
+report_route_status -file $report_dir/post_route_status.rpt
+report_timing_summary -file $report_dir/post_route_timing_summary.rpt
+report_power -file $report_dir/post_route_power.rpt
+report_drc -file $report_dir/post_imp_drc.rpt
+write_verilog -force $report_dir/cpu_impl_netlist.v -mode timesim -sdf_anno true
+
+# Bitstream
+#write_bitstream -force $report_dir/bitstream.bit
+
 
 exit

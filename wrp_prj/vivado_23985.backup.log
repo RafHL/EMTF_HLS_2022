@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Feb 19 23:11:24 2022
+# Process ID: 23985
+# Current directory: /home/rafe/.wkspc/eHLS_git_clone_prep/clone_to_bitstream_run/EMTF_HLS_2022/wrp_prj
+# Command line: vivado -i
+# Log file: /home/rafe/.wkspc/eHLS_git_clone_prep/clone_to_bitstream_run/EMTF_HLS_2022/wrp_prj/vivado.log
+# Journal file: /home/rafe/.wkspc/eHLS_git_clone_prep/clone_to_bitstream_run/EMTF_HLS_2022/wrp_prj/vivado.jou
+#-----------------------------------------------------------
+start_gui
+source vivado.tcl
+couldn't read file "vivado.tcl": no such file or directory
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Feb 19 23:11:37 2022...

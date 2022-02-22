@@ -60,7 +60,7 @@ void sp(
           ap_int<14>        (&model_out)[emtf::phase2::model_config::n_out],
           ap_uint<13>        &r_out,
 
-#ifdef GOLD
+#ifdef GOLD_FULL
           ap_uint<bw_fph>  (&ph)   [12][9][seg_ch],
           ap_uint<bw_th>   (&th11) [3][3][th_ch11],
           ap_uint<bw_th>   (&th)   [12][9][seg_ch],

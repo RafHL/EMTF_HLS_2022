@@ -1,0 +1,24 @@
+<<Inputs>>
+io_name(vpf) bus(y)([1:0]) vec(y)(12,9);
+io_name(q) bus(y)([3:0]) vec(y)(12,9,2);
+io_name(wg) bus(y)([6:0]) vec(y)(6,9,2);
+io_name(hstr) bus(y)([7:0]) vec(y)(6,9,2);
+io_name(cpat) bus(y)([3:0]) vec(y)(6,9,2);
+io_name(ph_rpc) bus(y)([10:0]) vec(y)(6,9,2);
+io_name(th_rpc) bus(y)([4:0]) vec(y)(6,9,2);
+io_name(time) bus(y)([5:0]) vec(y)(12,9,2);
+io_name(bend) bus(y)([9:0]) vec(y)(12,9,2);
+io_name(cs) bus(y)([8:0]) vec(y)(6);
+io_name(endcap) bus(y)([0:0]) vec(n);
+io_name(sector) bus(y)([2:0]) vec(n);
+io_name(lat_test) bus(y)([0:0]) vec(n);
+io_name(core_config) bus(y)([63:0]) vec(n);
+io_name(r_in) bus(y)([12:0]) vec(n);
+io_name(we) bus(y)([0:0]) vec(n);
+io_name(addr) bus(y)([6:0]) vec(n);
+io_name(sel) bus(y)([1:0]) vec(n);
+io_name(ap_clk) bus(n) vec(n);
+io_name(ap_rst) bus(n) vec(n);
+<<Outputs>>
+io_name(model_out) bus(y)([13:0]) vec(y)(216);
+io_name(r_out) bus(y)([12:0]) vec(n);
